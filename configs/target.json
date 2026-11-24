@@ -1,0 +1,129 @@
+{
+  "calibration": {
+    "best_single": {
+      "accuracy": 0.6620915032679738,
+      "name": "vr_overall"
+    },
+    "cv_accuracy": 0.6869590670233168,
+    "cv_std": 0.025931073437295022,
+    "data": "rb_mini (RewardBench) 5 models x 341 prompts",
+    "pairs_used": 3060,
+    "per_dim_accuracy": {
+      "align_mean": 0.5248366013071896,
+      "align_min": 0.5316993464052288,
+      "align_std": 0.5480392156862746,
+      "colorfulness": 0.5228758169934641,
+      "consistency": 0.5620915032679739,
+      "contrast": 0.5669934640522876,
+      "motion": 0.5620915032679739,
+      "sharp": 0.5078431372549019,
+      "vr_mq": 0.6047120418848168,
+      "vr_overall": 0.6620915032679738,
+      "vr_ta": 0.6014468924695824,
+      "vr_vq": 0.5974409448818898
+    },
+    "videos": 1705
+  },
+  "columns": [
+    "vr_vq",
+    "vr_mq",
+    "vr_ta",
+    "vr_overall",
+    "align_mean",
+    "align_min",
+    "align_std",
+    "motion",
+    "consistency",
+    "sharp",
+    "contrast",
+    "colorfulness"
+  ],
+  "description": "target = sum_i w_i * orient_i * (score_i - mu_i)/sd_i；在 rb_mini 人工 Overall 偏好上用非负 logistic 拟合",
+  "frozen": true,
+  "mu": {
+    "align_mean": 0.15926029450885537,
+    "align_min": 0.142336410342489,
+    "align_std": -0.009216062869614433,
+    "colorfulness": 19.374619937650422,
+    "consistency": 0.981488327441677,
+    "contrast": 58.64465798537273,
+    "motion": -0.018511672066690202,
+    "sharp": -5.830177927664659,
+    "vr_mq": -0.08809815258629361,
+    "vr_overall": 0.12583341609836315,
+    "vr_ta": 0.27435111558225334,
+    "vr_vq": -0.060419546897596585
+  },
+  "orient": {
+    "align_mean": 1,
+    "align_min": 1,
+    "align_std": -1,
+    "colorfulness": 1,
+    "consistency": 1,
+    "contrast": 1,
+    "motion": -1,
+    "sharp": -1,
+    "vr_mq": 1,
+    "vr_overall": 1,
+    "vr_ta": 1,
+    "vr_vq": 1
+  },
+  "scorers": {
+    "siglip2": {
+      "dims": [
+        "align_mean",
+        "align_min",
+        "align_std",
+        "motion",
+        "consistency",
+        "sharp",
+        "contrast",
+        "colorfulness"
+      ],
+      "frames": 16,
+      "repo": "google/siglip2-so400m-patch16-384"
+    },
+    "videoreward": {
+      "attn": "sdpa",
+      "base": "Qwen/Qwen2-VL-2B-Instruct",
+      "batch": 1,
+      "ckpt": "checkpoint-11352",
+      "dims": [
+        "VQ",
+        "MQ",
+        "TA",
+        "Overall"
+      ],
+      "repo": "KwaiVGI/VideoReward"
+    }
+  },
+  "sd": {
+    "align_mean": 0.03879465640223509,
+    "align_min": 0.04132065563134421,
+    "align_std": 0.007545011715750179,
+    "colorfulness": 9.659376970997744,
+    "consistency": 0.016393853797713083,
+    "contrast": 15.50562908635424,
+    "motion": 0.016393853950890973,
+    "sharp": 3.6800179649709563,
+    "vr_mq": 1.0224881251086357,
+    "vr_overall": 1.9914378918567859,
+    "vr_ta": 1.009644138612986,
+    "vr_vq": 0.8728247326483604
+  },
+  "version": "target-v1-20261111",
+  "weights": {
+    "align_mean": 0.07069745408112467,
+    "align_min": 0.0,
+    "align_std": 0.0,
+    "colorfulness": 0.0952255918783632,
+    "consistency": 0.1741616634368981,
+    "contrast": 0.20078639842051696,
+    "motion": 0.1742043736438073,
+    "sharp": 0.10279201553680331,
+    "vr_mq": 0.19350754395033645,
+    "vr_overall": 0.4605729870002355,
+    "vr_ta": 0.6000949935996696,
+    "vr_vq": 0.1298608971459264
+  }
+}

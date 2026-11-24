@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use VidRouteBench, please cite the paper."
+title: "VidRouteBench"
+authors:
+  - family-names: Wang
+    given-names: Dayu
+    affiliation: "Nanyang Technological University; Baidu Inc."
+repository-code: "https://github.com/dayuwang401/VidRouteBench"
+license: Apache-2.0
+preferred-citation:
+  type: article
+  title: "VidRouteBench: A Benchmark for Budgeted Video-Generation Routing"
+  authors:
+    - family-names: Wang
+      given-names: Dayu
+  journal: "arXiv preprint arXiv:2611.28099"
+  year: 2026

@@ -1,0 +1,9 @@
+arm,family,config,usd_per_clip,heldout
+cog5b_s50,cogvideox5b,"{""height"":480,""width"":720,""num_frames"":49,""num_inference_steps"":50,""guidance_scale"":6.0}",0.092,0
+cog5b_s25,cogvideox5b,"{""height"":480,""width"":720,""num_frames"":49,""num_inference_steps"":25,""guidance_scale"":6.0}",0.04738,0
+cog2b_s50,cogvideox2b,"{""height"":480,""width"":720,""num_frames"":49,""num_inference_steps"":50,""guidance_scale"":6.0}",0.07867,0
+wan21_13b_s50,wan21_13b,"{""height"":480,""width"":832,""num_frames"":81,""num_inference_steps"":50,""guidance_scale"":5.0}",0.07346,0
+wan21_13b_s25,wan21_13b,"{""height"":480,""width"":832,""num_frames"":81,""num_inference_steps"":25,""guidance_scale"":5.0}",0.03808,0
+wan22_5b_s40,wan22_5b,"{""height"":480,""width"":832,""num_frames"":121,""num_inference_steps"":40,""guidance_scale"":5.0}",0.04125,0
+ltx097d_s8,ltx097d,"{""height"":512,""width"":768,""num_frames"":121,""num_inference_steps"":8,""guidance_scale"":1.0}",0.00425,0
+ltx097d_s4,ltx097d,"{""height"":512,""width"":768,""num_frames"":121,""num_inference_steps"":4,""guidance_scale"":1.0}",0.00425,0

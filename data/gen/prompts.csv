@@ -1,0 +1,1626 @@
+prompt_id,split,text,source,dims,group
+p00000,train,"A pair of animated scissors with eyes and a mouth and a roll of tape with tiny arms and legs wrapping presents in a festive workshop. The scissors are cutting wrapping paper with precision, while the tape is sealing the packages with a smile. The workshop is decorated with holiday lights and ornaments.",tahard,ta_hard,2014
+p00001,train,"Machu Picchu, zoom in.",vbench2,Camera_Motion,1213
+p00002,train,"An elephant is in front of a car, then the elephant walks to back of the car.",vbench2,Dynamic_Spatial_Relationship,1683
+p00003,train,"The camera starts with an aerial view of a vibrant sea of flowers, with multicolored tulips, cherry blossoms, wisteria, and daisies interwoven, creating a beautiful tapestry. The b",vbench2,Complex_Landscape,1604
+p00004,train,An orange dog changes from small to big.,vbench2,Instance_Preservation,1430
+p00005,train,house,vbench,scene,833
+p00007,dev,time lapse of sunrise on mars.,vbench,overall_consistency,770
+p00008,train,a tie,vbench,object_class,834
+p00009,dev,"The camera orbits around. Petra, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00010,train,a car accelerating to gain speed,vbench,subject_consistency,294
+p00011,train,"a sandwich on the bottom of an orange, front view",vbench,spatial_relationship,921
+p00012,dev,The camera orbits around in a clockwise direction. Mount Fuji.,vbench2,Camera_Motion,1883
+p00013,train,"Forbidden City, tilt down.",vbench2,Camera_Motion,1222
+p00014,train,a cup,vbench,object_class,721
+p00016,train,"A whale with the wings of a bat, soaring over the ocean surface under the full moon.",vbench2,Composition,1712
+p00017,train,A person is sweeping floor,vbench,human_action,685
+p00018,train,a bird flying over a snowy forest,vbench,subject_consistency,702
+p00019,train,"In an ancient tomb, the raiders found a jade box, said to be a relic of an ancient emperor. As they opened the box, a strange black mist enveloped the entire chamber, sending a chi",vbench2,Complex_Plot,1129
+p00021,train,aquarium,vbench,scene,859
+p00022,train,One person fills another person’s cup with tea.,vbench2,Human_Interaction,1749
+p00023,train,"A magician with a top hat and a talking book with a face performing a magic show in a grand theater. The magician is casting spells and pulling rabbits out of a hat, while the book is narrating the tricks and interacting with the audience. The theater is packed with an audience eagerly watching the performance.",tahard,ta_hard,2028
+p00024,train,"A penguin with the legs of a cheetah, racing across icy terrain at lightning speed.",vbench2,Composition,1731
+p00025,train,"A horse is standing in the barn, then it suddenly starts shaking its mane.",vbench2,Motion_Order_Understanding,1691
+p00026,dev,tower,vbench,scene,856
+p00027,train,A cat wearing sunglasses and working as a lifeguard at a pool.,vbench,overall_consistency,751
+p00028,dev,A rubber eraser is rubbed against a rough sandpaper surface,vbench2,Material,1852
+p00029,train,"Two blue birds flies through the sky, coming close to each other and forming a complex formation.",vbench2,Instance_Preservation,1726
+p00030,train,Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.,vbench,overall_consistency,721
+p00031,train,A sculpture changes from large to small as it’s carved.,vbench2,Dynamic_Attribute,1419
+p00033,train,A drone is floating in the air.,vbench2,Instance_Preservation,1726
+p00034,train,One person hands a notebook to another person.,vbench2,Human_Interaction,1566
+p00035,dev,The camera orbits around in a clockwise direction. Pyramid.,vbench2,Camera_Motion,1233
+p00036,train,The wooden door handle transformed into a plastic door handle.,vbench2,Dynamic_Attribute,1379
+p00039,train,"A vacuum cleaner playing soccer, dribbling a ball around cones with surprising agility.",vbench2,Composition,1717
+p00040,train,A man is doing yoga.,vbench2,Human_Anatomy|Human_Clothes|Human_Identity,1737
+p00041,train,"A bird is behind a apple, then the bird flies to the right of the apple.",vbench2,Dynamic_Spatial_Relationship,1655
+p00044,dev,A timelapse documents the oxidation process of a metal door knocker exposed to outdoor elements for a long time.,vbench2,Material,1614
+p00046,train,"Gwen Stacy reading a book, Van Gogh style",vbench,appearance_style,546
+p00047,train,"The camera slowly descends into an ancient cave, where the rock walls are covered in moss and lichen. The air is damp, and water drips from the ceiling, creating a rhythmic sound.",vbench2,Complex_Landscape,1613
+p00048,train,"Burj Khalifa, zoom in.",vbench2,Camera_Motion,1204
+p00049,train,A person is sword fighting,vbench,human_action,232
+p00050,train,"An astronaut flying in space, featuring a steady and smooth perspective",vbench,temporal_style,745
+p00051,train,A mountain erodes and changes from large to small.,vbench2,Dynamic_Attribute,1358
+p00052,train,A person is planting trees,vbench,human_action,241
+p00053,train,Two people push a heavy cart together.,vbench2,Human_Anatomy|Human_Interaction,1563
+p00054,train,"A rabbit with the legs of a frog, the ears of a bat, the body of a turtle, and the tail of a squirrel, combining agility, stealth, and the ability to survive in any environment.",vbench2,Composition,1708
+p00055,train,a hair drier,vbench,object_class,406
+p00056,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, racking focus",vbench,temporal_style,552
+p00058,dev,"A monkey and a parrot flying a kite together on a hill. The monkey is holding the kite string. The sky is clear, and the kite is soaring high.",tahard,ta_hard,2011
+p00060,dev,"The camera orbits around. Stove, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00061,train,A person is wrestling,vbench,human_action,233
+p00062,train,Little Red Riding Hood brings food to visit her sick grandmother and encounters a cunning wolf along the way. The wolf pretends not to know her and guides her down a longer path. A,vbench2,Complex_Plot,1110
+p00063,train,a remote and a keyboard,vbench,multiple_objects,830
+p00064,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, racking focus",vbench,temporal_style,558
+p00065,train,"An astronaut flying in space, zoom in",vbench,temporal_style,745
+p00066,train,"a microwave on the top of an oven, front view",vbench,spatial_relationship,915
+p00068,train,A person is jogging,vbench,human_action,248
+p00069,train,a person and a toothbrush,vbench,multiple_objects,900
+p00070,train,"Garden, tilt down.",vbench2,Camera_Motion,1177
+p00073,dev,A person is catching or throwing baseball,vbench,human_action,896
+p00074,train,"The camera enters a golden autumn forest, where the leaves have turned brilliant shades from gold to orange-red. A few leaves drift down with the wind. Sunlight filters through the",vbench2,Complex_Landscape,1613
+p00075,train,A metal coin is gently placed on the surface of a shallow pool of water.,vbench2,Mechanics,1817
+p00077,dev,a tv,vbench,object_class,391
+p00078,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom in",vbench,temporal_style,579
+p00080,dev,"A tranquil tableau of at the edge of the Arabian Desert, the ancient city of Petra beckoned with its enigmatic rock-carved façades",vbench,temporal_flickering,63
+p00081,train,"In a town full of legends, a rainbow bridge appeared in the valley after every rain, leading to a mysterious world. Everyone had heard the story of the bridge, but no one dared to",vbench2,Complex_Plot,1114
+p00082,dev,A person is peeling apples,vbench,human_action,252
+p00083,train,"A timelapse of a plastic bottle being squeezed by hand, with the pressure intensifying over time.",vbench2,Mechanics,1824
+p00084,train,A person is brushing teeth,vbench,human_action,900
+p00085,train,"A timelapse of air being extracted from a sealed, empty plastic container.",vbench2,Mechanics,1828
+p00086,train,A fat rabbit wearing a purple robe walking through a fantasy landscape.,vbench,overall_consistency,844
+p00087,train,"Burj Khalifa, zoom out.",vbench2,Camera_Motion,1204
+p00088,train,"A brown dog is on the left of an apple, then the dog moves to the right of the apple.",vbench2,Instance_Preservation,1433
+p00089,train,A tranquil tableau of barn,vbench,temporal_flickering,23
+p00091,train,"A bird is on the right of a apple, then the bird flies to the front of the apple.",vbench2,Dynamic_Spatial_Relationship,1655
+p00094,dev,a toilet,vbench,object_class,842
+p00095,dev,a red vase,vbench,color,492
+p00100,train,"A rubber dog ball is thrown down onto the floor, displaying its bounce as it hits the ground.",vbench2,Mechanics,1845
+p00101,train,A timelapse captures the transformation of water in a pot as the temperature is 70°C.,vbench2,Thermotics,1477
+p00102,train,underwater coral reef,vbench,scene,855
+p00104,train,A timelapse captures the transformation as lime juice is added to a solution of blue litmus paper.,vbench2,Material,1280
+p00105,dev,A person is shooting basketball,vbench,human_action,236
+p00106,train,A person is doing aerobics,vbench,human_action,233
+p00107,train,Flying through fantasy landscapes.,vbench,overall_consistency,844
+p00108,train,"A beautiful coastal beach in spring, waves lapping on sand, zoom out",vbench,temporal_style,742
+p00110,train,A blue ball rolls off the table.,vbench2,Instance_Preservation,1404
+p00111,train,"A cat is sitting by the door, then it suddenly starts chasing a fly.",vbench2,Motion_Order_Understanding,1074
+p00112,dev,a horse taking a peaceful walk,vbench,subject_consistency,327
+p00114,train,"A person is drinking tea, then they suddenly start folding the laundry.",vbench2,Human_Anatomy|Human_Clothes|Human_Identity|Motion_Order_Understanding,1771
+p00115,dev,a blue chair,vbench,color,474
+p00116,train,Two men are playing basketball.,vbench2,Instance_Preservation,1741
+p00118,train,A cloud changes from large to small as it gathers moisture.,vbench2,Dynamic_Attribute,1358
+p00120,train,A tranquil tableau of tower,vbench,temporal_flickering,23
+p00121,train,"A giraffe breakdancing, spinning on its back and flipping gracefully despite its towering height.",vbench2,Composition,1710
+p00122,dev,a bus,vbench,object_class,424
+p00124,train,a train crossing over a tall bridge,vbench,subject_consistency,854
+p00125,dev,a stop sign and a parking meter,vbench,multiple_objects,867
+p00126,dev,"The camera orbits around. Clock Tower, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00127,train,a handbag,vbench,object_class,355
+p00130,train,A person is skateboarding,vbench,human_action,243
+p00131,train,"Pyramid, zoom out.",vbench2,Camera_Motion,1177
+p00132,dev,"The camera orbits around. Skateboard, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00133,train,"A robot with a television screen for a head and a toaster with arms and legs having a cooking competition in a retro kitchen. The robot is displaying recipes on its screen, while the toaster is popping out perfectly toasted bread. The kitchen is styled with vintage appliances and checkered floors.",tahard,ta_hard,2015
+p00134,train,"In a still frame, the Temple of Hephaestus, with its timeless Doric grace, stands stoically against the backdrop of a quiet Athens",vbench,temporal_flickering,53
+p00135,train,"A tranquil tableau of an ornate Victorian streetlamp standing on a cobblestone street corner, illuminating the empty night",vbench,temporal_flickering,714
+p00136,train,"A mysterious hooded figure with glowing runes floating beneath their cloak, meditating in an ancient stone circle as moonlight streams down. Magic wisps swirl around their floating form.",tahard,ta_hard,2028
+p00137,train,"Forbidden City, zoom out.",vbench2,Camera_Motion,1222
+p00138,dev,"The camera orbits around. Machu Picchu, the camera circles around.",vbench2,Multi-View_Consistency,1883
+p00139,train,"Burj Khalifa, tilt up.",vbench2,Camera_Motion,1204
+p00141,train,"The camera starts at a tranquil coastline, where the waves gently crash against the rocks, the salty sea breeze fills the air, and the atmosphere feels fresh and alive. As the came",vbench2,Complex_Landscape,1604
+p00142,train,a truck slowing down to stop,vbench,subject_consistency,749
+p00143,train,"A person is texting, then they suddenly get up and start vacuuming the floor.",vbench2,Human_Anatomy|Human_Clothes|Human_Identity|Motion_Order_Understanding,1717
+p00144,train,"A dolphin and a seagull playing with a beach ball in the ocean. The dolphin is nudging the ball with its nose, while the seagull is swooping down to catch it. The ocean is clear and blue, with the sun shining brightly overhead.",tahard,ta_hard,1991
+p00145,dev,a giraffe taking a peaceful walk,vbench,subject_consistency,327
+p00147,train,"A drone view of celebration with Christmas tree and fireworks, starry sky - background.",vbench,overall_consistency,767
+p00148,train,"Table, tilt down.",vbench2,Camera_Motion,1238
+p00149,train,"a snowboard on the bottom of a kite, front view",vbench,spatial_relationship,937
+p00150,train,"A panda drinking coffee in a cafe in Paris, racking focus",vbench,temporal_style,620
+p00151,train,A balloon changes from large to small.,vbench2,Dynamic_Attribute,1419
+p00152,train,Two people are playing tug-of-war with a rope.,vbench2,Human_Anatomy|Human_Interaction,1742
+p00153,train,"A lion doing a handstand, balancing perfectly on its front paws while gazing confidently at the audience.",vbench2,Composition,1736
+p00154,train,A person is trimming or shaving beard,vbench,human_action,406
+p00155,train,"A panda drinking coffee in a cafe in Paris, in cyberpunk style",vbench,appearance_style,620
+p00156,train,ballroom,vbench,scene,834
+p00159,train,"A zebra, a guitar, a skateboard, and a kettle are preparing for a concert. The zebra strums the guitar while balancing on the skateboard, but the kettle starts whistling loudly, di",vbench2,Composition,1736
+p00160,train,A storm trooper vacuuming the beach.,vbench,overall_consistency,685
+p00161,dev,A paper airplane with a scarf and a paper boat with a captain's hat racing in the rain. The airplane glides through the air while the boat sails through puddles.,tahard,ta_hard,2011
+p00162,train,A cute fluffy panda eating Chinese food in a restaurant,vbench,overall_consistency,759
+p00163,dev,"a dining table on the left of a chair, front view",vbench,spatial_relationship,906
+p00164,train,lighthouse,vbench,scene,834
+p00167,train,Clown fish swimming through the coral reef,vbench,overall_consistency,769
+p00168,train,"An astronaut flying in space, pan right",vbench,temporal_style,745
+p00169,dev,A person is hugging,vbench,human_action,249
+p00172,dev,"The camera starts by showing a wet tidal flat, where fine sand and mud blend together, the tide slowly receding and leaving behind a glistening sheen on the surface. Occasional exp",vbench2,Complex_Landscape,1612
+p00173,dev,a car,vbench,object_class,424
+p00174,train,A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh,vbench,overall_consistency,552
+p00175,train,scissors and a teddy bear,vbench,multiple_objects,891
+p00176,train,"A bird is above a tree, then the bird flies to the back of the tree.",vbench2,Dynamic_Spatial_Relationship,1666
+p00177,dev,"In a still frame, parking lot",vbench,temporal_flickering,867
+p00178,dev,"A scientist in a lab coat and an alien with green skin and antennae building a rocket in a high-tech laboratory. The scientist is welding parts together, while the alien is programming the navigation system. The lab is filled with advanced technology and gadgets, with the rocket taking shape in the center.",tahard,ta_hard,2024
+p00179,dev,"The camera orbits around. Airpods Max, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00181,train,a dining table,vbench,object_class,701
+p00182,dev,"The camera orbits around. Sundae, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00183,train,"Inside the tomb, the tomb raiders found a stone tablet adorned with blood-red totems. According to legend, this tablet would lead to an endless treasure. Captain Wang Kai believed",vbench2,Complex_Plot,1129
+p00184,train,"indoor gymnasium, frozen in time",vbench,temporal_flickering,841
+p00186,train,A person is shining shoes,vbench,human_action,406
+p00188,train,A person is motorcycling,vbench,human_action,228
+p00190,dev,The camera orbits around in a clockwise direction. Vase.,vbench2,Camera_Motion,1233
+p00192,train,Two people are doing yoga.,vbench2,Instance_Preservation,1737
+p00193,train,"A bird is behind a tree, then the bird flies to the above of the tree.",vbench2,Dynamic_Spatial_Relationship,1666
+p00194,train,"An astronaut flying in space, with an intense shaking effect",vbench,temporal_style,745
+p00195,train,"An astronaut flying in space, pixel art",vbench,appearance_style,745
+p00197,train,One person brushes the dust off another person’s jacket.,vbench2,Human_Interaction,1725
+p00198,dev,a snowboard,vbench,object_class,852
+p00199,train,A person is drinking juice from a glass.,vbench2,Motion_Rationality,1775
+p00200,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks by Hokusai, in the style of Ukiyo",vbench,appearance_style,579
+p00201,dev,"A book with arms and legs and a pair of reading glasses and a lamp with a face and a bright smile reading together in a cozy library. The book is flipping its own pages, while the lamp is providing warm light and occasionally commenting on the story. The library is filled with shelves of books and comfortable chairs.",tahard,ta_hard,2003
+p00203,train,classroom,vbench,scene,833
+p00204,train,a truck accelerating to gain speed,vbench,subject_consistency,294
+p00205,dev,"a car on the right of a motorcycle, front view",vbench,spatial_relationship,862
+p00206,train,A timelapse captures the gradual transformation of a piece of ice as the temperature rises to 10°C.,vbench2,Thermotics,1466
+p00207,train,"A book and a cup of tea exchanging stories, each telling the other about their adventures.",vbench2,Composition,1749
+p00208,train,"A lion, a lamp, a skateboard, and a bowl of soup are trying to perform a circus trick. The lion is balancing on the skateboard while sipping the soup from the bowl, but the lamp st",vbench2,Composition,1736
+p00210,train,"A dog is barking at a stranger, then it suddenly starts wagging its tail.",vbench2,Motion_Order_Understanding,1073
+p00211,train,an orange bowl,vbench,color,721
+p00212,train,nursery,vbench,scene,836
+p00213,train,A shark swimming in clear Caribbean ocean,vbench,overall_consistency,764
+p00214,dev,Two people are changing a flat tire on a car together.,vbench2,Human_Interaction,1581
+p00215,train,a person swimming in ocean,vbench,subject_consistency,769
+p00216,train,"The camera movement is static. Vase, static shot, the camera is fixed.",vbench2,Camera_Motion,1223
+p00218,train,"A person is watching a video, then they suddenly get up and start sweeping the yard.",vbench2,Human_Anatomy|Human_Clothes|Human_Identity|Motion_Order_Understanding,1717
+p00219,train,A person is using computer,vbench,human_action,329
+p00221,dev,valley,vbench,scene,856
+p00223,train,A man is doing gymnastics.,vbench2,Human_Anatomy|Human_Clothes,1737
+p00225,train,"A pencil with a face and a pair of glasses and an eraser with a hat and a bowtie drawing and erasing on a giant sketchpad in an artist's studio. The pencil is sketching intricate designs, while the eraser is playfully correcting mistakes. The studio is filled with art supplies and unfinished masterpieces.",tahard,ta_hard,2014
+p00226,dev,A person is sailing,vbench,human_action,292
+p00227,dev,"A tranquil tableau of in the Arizona desert, a massive stone bridge arched across a rugged canyon",vbench,temporal_flickering,63
+p00228,train,A future where humans have achieved teleportation technology,vbench,overall_consistency,765
+p00229,dev,"Alhambra, zoom out.",vbench2,Camera_Motion,1186
+p00230,dev,"a truck on the right of a bicycle, front view",vbench,spatial_relationship,869
+p00231,train,"An Iron man is playing the electronic guitar, high electronic guitar.",vbench,overall_consistency,746
+p00232,train,A timelapse captures the gradual transformation of a block of cheese as the temperature rises to 60°C.,vbench2,Thermotics,1477
+p00233,dev,Two people are washing a car together.,vbench2,Human_Interaction,1581
+p00234,train,A river changes from blue to brown.,vbench2,Diversity|Dynamic_Attribute,1315
+p00235,train,A panda drinking coffee in a cafe in Paris,vbench,overall_consistency,620
+p00237,dev,"The camera orbits around. Mug, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00238,train,Two people are passing a stack of papers between them.,vbench2,Human_Anatomy|Human_Interaction,1566
+p00239,train,carrousel,vbench,scene,834
+p00240,dev,skis,vbench,object_class,852
+p00241,dev,"a bed on the left of a tv, front view",vbench,spatial_relationship,906
+p00242,train,"A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy",vbench,overall_consistency,765
+p00243,train,A person is grooming dog,vbench,human_action,406
+p00244,train,A small burning piece of wood was thrown into a pile of dry corn stalks.,vbench2,Material,1723
+p00245,dev,"A monkey and a parrot flying a kite together on a hill. The monkey is holding the kite string, while the parrot is perched on the monkey's shoulder, giving directions. The sky is clear, and the kite is soaring high.",tahard,ta_hard,2011
+p00246,train,fountain,vbench,scene,859
+p00247,train,volcano,vbench,scene,859
+p00248,train,"Equal amounts of red and purple paint are rapidly combined, with the mixture being vigorously stirred until fully blended.",vbench2,Material,1248
+p00251,train,"Forbidden City, pan left.",vbench2,Camera_Motion,1222
+p00252,train,a toaster,vbench,object_class,821
+p00253,dev,A woman is dancing.,vbench2,Human_Anatomy|Human_Clothes|Human_Identity,978
+p00255,dev,A person is walking up the stairs.,vbench2,Motion_Rationality,1780
+p00256,train,A cat changes from big to small.,vbench2,Dynamic_Attribute,1434
+p00258,train,"a shark is swimming in the ocean, with an intense shaking effect",vbench,temporal_style,764
+p00259,train,a wine glass,vbench,object_class,886
+p00260,train,"A tiger, a bicycle, a spoon, and a door are in the middle of a race. The tiger is racing alongside the bicycle, but the spoon keeps slipping out of the door's handle and landing on",vbench2,Composition,1734
+p00262,train,"An astronaut flying in space, animated style",vbench,appearance_style,745
+p00263,train,"An astronaut flying in space, pan left",vbench,temporal_style,745
+p00264,train,"a shark is swimming in the ocean, in super slow motion",vbench,temporal_style,764
+p00265,train,Two people hold a ladder while the other climbs.,vbench2,Human_Anatomy|Human_Interaction,1548
+p00266,dev,a red car,vbench,color,424
+p00268,dev,a green chair,vbench,color,474
+p00269,dev,"Gwen Stacy reading a book, in cyberpunk style",vbench,appearance_style,641
+p00270,train,A person is running on the track.,vbench2,Motion_Rationality,1781
+p00271,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, featuring a steady and smooth perspective",vbench,temporal_style,558
+p00273,train,A tranquil tableau of a vintage rocking chair was placed on the porch,vbench,temporal_flickering,68
+p00274,train,A timelapse captures the gradual transformation of a block of cheese as the temperature rises to 5°C.,vbench2,Thermotics,1477
+p00275,train,A person is playing trumpet,vbench,human_action,188
+p00276,dev,a vase,vbench,object_class,492
+p00277,train,"An elephant is on the left of a car, then the elephant walks to the front of the car.",vbench2,Dynamic_Spatial_Relationship,1683
+p00279,train,"A person is drinking coffee, then they suddenly get up and start sweeping the garage.",vbench2,Human_Anatomy|Human_Clothes|Human_Identity|Motion_Order_Understanding,1717
+p00280,train,a white bicycle,vbench,color,416
+p00282,train,A person is closing the door.,vbench2,Motion_Rationality,1802
+p00283,train,"A kangaroo is on the left of a board, then the kangaroo jumps behind the board.",vbench2,Dynamic_Spatial_Relationship,1650
+p00286,train,A person is cheerleading,vbench,human_action,248
+p00287,train,"Machu Picchu, pan right.",vbench2,Camera_Motion,1213
+p00288,dev,"The camera orbits around. Loudsspeaker, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00289,train,a shark is swimming in the ocean.,vbench,overall_consistency,764
+p00290,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt up",vbench,temporal_style,579
+p00291,train,a person playing guitar,vbench,subject_consistency,746
+p00292,train,"scissors on the left of a teddy bear, front view",vbench,spatial_relationship,891
+p00293,train,"In a mysterious ancient tomb, there was a treasure said to have the power to change history. Young archaeologist Zhang Peng ventured into the tomb with a group of tomb raiders. Ins",vbench2,Complex_Plot,1129
+p00294,train,an ice cream is melting on the table.,vbench,overall_consistency,701
+p00295,dev,"The camera orbits around. Golden Gate Bridge, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00296,train,scissors,vbench,object_class,890
+p00297,dev,"The camera moves through the vast expanse of the universe, where stars twinkle against the dark backdrop, the Milky Way arcing like a silver river across the sky. Nebulae slowly ro",vbench2,Complex_Landscape,1612
+p00299,dev,"Alhambra, tilt down.",vbench2,Camera_Motion,1186
+p00300,train,A person is drinking coffee from a cup.,vbench2,Motion_Rationality,1749
+p00302,train,One person picks out clothes for another person.,vbench2,Diversity|Human_Interaction,1562
+p00303,train,"A cute happy Corgi playing in park, sunset, watercolor painting",vbench,appearance_style,531
+p00304,train,a giraffe bending down to drink water from a river,vbench,subject_consistency,326
+p00305,dev,a baseball bat and a baseball glove,vbench,multiple_objects,896
+p00306,train,a surfboard and a tennis racket,vbench,multiple_objects,855
+p00307,train,people are doing gymnastics.,vbench2,Human_Anatomy,1746
+p00308,dev,cliff,vbench,scene,856
+p00309,dev,A basketball with a mohawk and a soccer ball with a bandana playing hopscotch in a playground. The basketball bounces high while the soccer ball rolls smoothly.,tahard,ta_hard,2024
+p00310,train,"A cat is playing with a ball of yarn, then it suddenly starts lying down to rest.",vbench2,Motion_Order_Understanding,1076
+p00311,train,"A needle slowly presses into the surface of an inflated air mattress, with the tip gradually penetrating the fabric.",vbench2,Mechanics,1838
+p00312,train,Two people are planting a tree together.,vbench2,Human_Interaction,1784
+p00313,train,a toothbrush and a sink,vbench,multiple_objects,900
+p00314,train,A black drone and a blue drone are floating in the air.,vbench2,Instance_Preservation,1726
+p00315,train,A tree stump changes from small to large as it decays.,vbench2,Dynamic_Attribute,1358
+p00316,train,A timelapse captures the reaction as concentrated sulfuric acid is poured onto a piece of toast.,vbench2,Material,1287
+p00317,train,A clear glass of baking soda is gently poured into a glass of vinegar.,vbench2,Material,1268
+p00318,dev,"The camera orbits around. Camera, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00319,train,"A peacock and a chameleon playing hide and seek in a garden. The peacock is hiding behind a bush, while the chameleon is blending in with a colorful flower. The garden is vibrant with blooming flowers and greenery.",tahard,ta_hard,2007
+p00320,dev,a cow and an elephant,vbench,multiple_objects,876
+p00321,train,A timelapse captures the reaction as concentrated sulfuric acid is poured onto a rubber balloon.,vbench2,Material,1287
+p00322,train,The glass bottle turned into a wooden bottle.,vbench2,Dynamic_Attribute,1383
+p00323,train,sky,vbench,scene,844
+p00324,dev,staircase,vbench,scene,856
+p00326,dev,A person is peeling a boiled egg.,vbench2,Motion_Rationality,1768
+p00327,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom out",vbench,temporal_style,558
+p00328,train,an oven and scissors,vbench,multiple_objects,890
+p00329,train,"skis on the bottom of a snowboard, front view",vbench,spatial_relationship,937
+p00330,train,crosswalk,vbench,scene,848
+p00331,train,"A bird is behind a apple, then the bird flies to the left of the apple.",vbench2,Dynamic_Spatial_Relationship,1655
+p00333,dev,A person is hula hooping,vbench,human_action,249
+p00334,train,A tranquil tableau of kitchen,vbench,temporal_flickering,701
+p00335,train,A person is pulling the blinds up.,vbench2,Motion_Rationality,1802
+p00336,train,One person helps another person tie their shoes.,vbench2,Human_Interaction,1572
+p00337,train,The plastic water cup turned into a metal water cup.,vbench2,Dynamic_Attribute,1383
+p00338,train,A cork is placed on the surface of a bucket filled with water.,vbench2,Mechanics,1817
+p00339,train,a yellow clock,vbench,color,889
+p00340,dev,a baseball glove,vbench,object_class,896
+p00341,train,"a microwave on the bottom of an oven, front view",vbench,spatial_relationship,915
+p00342,dev,skis and a snowboard,vbench,multiple_objects,852
+p00343,train,"Burj Khalifa, pan right.",vbench2,Camera_Motion,1204
+p00344,train,pharmacy,vbench,scene,836
+p00345,dev,a motorcycle gliding through a snowy field,vbench,subject_consistency,275
+p00347,train,The wooden wheel turned into a metal wheel.,vbench2,Dynamic_Attribute,1376
+p00348,train,"Gwen Stacy reading a book, surrealism style",vbench,appearance_style,546
+p00349,train,"A dog is chasing a ball, then it suddenly stops and lies down to rest.",vbench2,Motion_Order_Understanding,1076
+p00350,train,"The camera starts at the top of the forest, where thick morning mist drifts between the treetops, with sunlight filtering through the leaves and casting dappled spots of light, the",vbench2,Complex_Landscape,1613
+p00351,train,Two people are holding hands while walking.,vbench2,Human_Interaction,1739
+p00352,train,"A rabbit is on the left of a table, then the rabbit jumps to the front of the table.",vbench2,Dynamic_Spatial_Relationship,1650
+p00353,train,"In an ancient tomb, the raiders discovered five statues, each representing one of the five elements. Captain Zhao Fei carefully studied the statues and believed they would lead the",vbench2,Complex_Plot,1129
+p00355,train,A person is cutting watermelon,vbench,human_action,1773
+p00356,train,"A fragile egg is dropped onto a hard, concrete floor",vbench2,Material,1845
+p00357,train,"A young girl named Emily lived in a small village surrounded by a dense forest. Near the village was a mysterious silver lake, its waters shimmering with a mystical glow. One day,",vbench2,Complex_Plot,1135
+p00358,dev,"The camera orbits around. Coffee Grinder, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00359,train,A tranquil tableau of restaurant,vbench,temporal_flickering,701
+p00360,train,A sandcastle changes from small to large.,vbench2,Dynamic_Attribute,1358
+p00361,train,"A young boy receives a letter from the future, saying that he will discover a secret that will change the world. On the first day, he finds a dusty book filled with unknown symbols",vbench2,Complex_Plot,1108
+p00362,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, zoom out",vbench,temporal_style,579
+p00363,train,a clock and a backpack,vbench,multiple_objects,889
+p00364,dev,a skateboard,vbench,object_class,852
+p00365,dev,"a bicycle on the left of a car, front view",vbench,spatial_relationship,869
+p00366,dev,"The camera orbits around. Ring, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00367,train,A person is eating chili with a spoon.,vbench2,Motion_Rationality,1776
+p00368,train,a person drinking coffee in a cafe,vbench,subject_consistency,620
+p00369,dev,The camera orbits around in a clockwise direction. Forbidden City.,vbench2,Camera_Motion,1233
+p00370,train,A person is eating popcorn.,vbench2,Motion_Rationality,1776
+p00372,train,a person,vbench,object_class,329
+p00373,dev,"The camera orbits around. Motorbike, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00374,dev,A timelapse shows the corrosion of a metal barbecue grill exposed to rain and humidity over several seasons.,vbench2,Material,1614
+p00375,train,A person is washing dishes,vbench,human_action,766
+p00376,train,"Watch, tilt down.",vbench2,Camera_Motion,1238
+p00377,train,A person is eating ice cream.,vbench2,Diversity|Motion_Rationality,1776
+p00379,dev,"an elephant on the left of a bear, front view",vbench,spatial_relationship,876
+p00380,train,A lion changes from small to big.,vbench2,Dynamic_Attribute,1434
+p00381,train,"It is said that the ancient Dragon Tribe left behind a vast treasure, accessible only through a series of trials. Young adventurer Lucas set off on his own journey to find this leg",vbench2,Complex_Plot,1118
+p00382,train,"An astronaut flying in space, black and white",vbench,appearance_style,745
+p00383,dev,a bear sniffing the air for scents of food,vbench,subject_consistency,350
+p00384,train,One person adjusts the tie of another person.,vbench2,Human_Interaction,1562
+p00385,dev,"In a still frame, in the heart of the old city, a row of ornate lantern-style streetlamps bathed the narrow alleyway in a warm, welcoming light",vbench,temporal_flickering,61
+p00387,train,A person is cutting a watermelon.,vbench2,Motion_Rationality,1773
+p00388,dev,"The camera orbits around. Volcano, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00389,train,"A bird is in front of a table, then the bird flies to the right of the table.",vbench2,Dynamic_Spatial_Relationship,1666
+p00390,dev,"In a still frame, in the picturesque square, a Gothic-style lamppost adorned with intricate stone carvings added a touch of medieval charm to the setting",vbench,temporal_flickering,61
+p00391,dev,"The camera orbits around. Mount Ararat, the camera circles around.",vbench2,Multi-View_Consistency,1883
+p00393,train,Two people are pushing a stroller together.,vbench2,Human_Interaction,1563
+p00394,train,a wine glass and a chair,vbench,multiple_objects,886
+p00395,train,"An astronaut flying in space, in super slow motion",vbench,temporal_style,745
+p00396,train,An orange cat and a white cat are running.,vbench2,Instance_Preservation,1398
+p00397,train,One person folds a shirt for another person.,vbench2,Human_Interaction,1562
+p00398,train,A fantasy landscape,vbench,overall_consistency,844
+p00399,train,"A cheetah with the shell of a tortoise, moving quickly but with a protective outer layer.",vbench2,Composition,1708
+p00400,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, watercolor painting",vbench,appearance_style,558
+p00402,train,"A bird is on the left of a lightbulb, then the bird flies behind the lightbulb.",vbench2,Dynamic_Spatial_Relationship,1666
+p00403,train,"A cute happy Corgi playing in park, sunset by Hokusai, in the style of Ukiyo",vbench,appearance_style,531
+p00404,train,an orange and a clock,vbench,multiple_objects,889
+p00405,train,an airplane landing smoothly on a runway,vbench,subject_consistency,280
+p00406,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom in",vbench,temporal_style,552
+p00408,train,"On a clear morning, astronomy enthusiast Lily noticed a mysterious light in the sky. She followed the light to an abandoned observatory, where she found an ancient time machine. Li",vbench2,Complex_Plot,1118
+p00409,train,A person is playing harp,vbench,human_action,188
+p00410,train,"A koala and a kangaroo playing hopscotch on a sidewalk in a quiet neighborhood. The koala is hopping on one foot, while the kangaroo is waiting for its turn. The sidewalk is lined with houses and gardens.",tahard,ta_hard,2013
+p00411,train,barn,vbench,scene,836
+p00412,train,A timelapse captures the transformation of honey in a pot as the temperature is 120°C.,vbench2,Thermotics,1477
+p00413,train,"Sleeping Beauty was cursed by an evil witch from the moment of her birth. The witch prophesied that on her sixteenth birthday, she would prick her finger and fall into an eternal s",vbench2,Complex_Plot,1134
+p00414,train,A timelapse captures the transformation of an ocean as the temperature significantly drops below 0°C.,vbench2,Thermotics,1466
+p00415,train,campus,vbench,scene,833
+p00417,train,people are playing football.,vbench2,Human_Anatomy,1742
+p00418,train,"Garden, pan right.",vbench2,Camera_Motion,1177
+p00419,dev,"A tranquil tableau of beside a tranquil pond, a weeping willow tree draped its branches gracefully over the water's surface, creating a serene tableau of reflection and calm",vbench,temporal_flickering,288
+p00420,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in cyberpunk style",vbench,appearance_style,558
+p00421,dev,"The camera orbits around. Tower, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00422,train,A metal spoon is gently placed on the surface of a glass of water.,vbench2,Mechanics,1817
+p00423,train,A timelapse captures the gradual transformation of butter as the temperature rises to 60°C.,vbench2,Thermotics,1477
+p00424,train,A black drone is floating in the air.,vbench2,Instance_Preservation,1726
+p00425,train,Two people are holding a ladder while the other climbs.,vbench2,Human_Interaction,1548
+p00426,train,Two orange dogs are running.,vbench2,Instance_Preservation,1398
+p00430,dev,"The camera orbits around. Cone, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00431,dev,A person is petting animal (not cat),vbench,human_action,733
+p00432,dev,"Blue Lagoon, tilt up.",vbench2,Camera_Motion,1168
+p00435,train,people are playing basketball.,vbench2,Human_Anatomy,1741
+p00436,dev,A person is canoeing or kayaking,vbench,human_action,292
+p00437,train,"Equal amounts of brown and yellow paint are rapidly combined, with the mixture being vigorously stirred until fully blended.",vbench2,Material,1248
+p00438,train,a drone flying over a snowy forest.,vbench,overall_consistency,702
+p00439,dev,"A pair of animated sneakers with eyes and a mouth and a talking basketball with a face playing a game of one-on-one on an urban basketball court. The sneakers are dribbling and making quick moves, while the basketball is bouncing and trying to score. The court is surrounded by graffiti-covered walls and cheering spectators.",tahard,ta_hard,2024
+p00440,train,"A dog is playing with a ball, then it suddenly starts lying down on the carpet.",vbench2,Motion_Order_Understanding,1076
+p00441,dev,"A tranquil tableau of in the heart of Plaka, the neoclassical architecture of the old city harmonizes with the ancient ruins",vbench,temporal_flickering,63
+p00442,dev,"A tranquil tableau of in the serene courtyard, a centuries-old stone well stood as a symbol of a bygone era, its mossy stones bearing witness to the passage of time",vbench,temporal_flickering,74
+p00443,dev,a car and a motorcycle,vbench,multiple_objects,862
+p00444,train,an apple,vbench,object_class,923
+p00445,train,A person is eating watermelon,vbench,human_action,1773
+p00446,train,A tranquil tableau of indoor library,vbench,temporal_flickering,72
+p00447,train,A small burning candle was thrown into a pile of dry twigs.,vbench2,Material,1723
+p00448,train,A man is playing ping-pong.,vbench2,Human_Anatomy|Human_Clothes|Human_Identity,1744
+p00452,dev,"The camera starts with a high-altitude view of an endless ice plain, where the snow-covered land stretches out as far as the eye can see. The cold air gives everything a still, pri",vbench2,Complex_Landscape,1612
+p00453,train,"A giraffe and an elephant painting a landscape on a canvas in the savannah. The giraffe is using its long neck to reach the top of the canvas, while the elephant is holding a paintbrush with its trunk. The savannah is vast, with acacia trees dotting the horizon.",tahard,ta_hard,2013
+p00454,train,A person is strumming guitar,vbench,human_action,746
+p00456,train,"In a still frame, a tranquil Japanese tea ceremony room, with tatami mats, a delicate tea set, and a bonsai tree in the corner",vbench,temporal_flickering,66
+p00457,train,"A piece of barium is ignited, emitting a vivid and unique flame as it burns steadily.",vbench2,Material,1256
+p00458,train,Robot dancing in Times Square.,vbench,overall_consistency,765
+p00459,train,A timelapse captures the reaction as concentrated sulfuric acid is poured onto a plastic spoon.,vbench2,Material,1287
+p00460,train,One person hands a map to another person.,vbench2,Human_Interaction,1566
+p00461,train,"Garden, tilt up.",vbench2,Camera_Motion,1177
+p00462,dev,A woman is doing gymnastics.,vbench2,Human_Anatomy|Human_Clothes|Human_Identity,978
+p00463,train,"A bowl of soup is tilted in the space station, with the liquid slowly spreading in all directions.",vbench2,Mechanics,1811
+p00467,train,Two people are putting on makeup together.,vbench2,Human_Interaction,1784
+p00468,dev,"The camera orbits around. Dart Set, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00469,train,an oven,vbench,object_class,821
+p00471,train,A person is cleaning windows,vbench,human_action,685
+p00472,train,"Equal amounts of yellow and blue paint are rapidly combined, with the mixture being vigorously stirred until fully blended.",vbench2,Material,1248
+p00473,train,"a boat on the left of an airplane, front view",vbench,spatial_relationship,909
+p00475,train,"A small rubber beach ball is thrown towards the ground, showing the ball's high bounce after impact with the surface.",vbench2,Mechanics,1845
+p00476,train,"A cute happy Corgi playing in park, sunset, surrealism style",vbench,appearance_style,531
+p00477,train,a banana and a keyboard,vbench,multiple_objects,830
+p00478,train,A person is running.,vbench2,Instance_Preservation,1781
+p00479,train,"A dog is on the right of a sofa, then the dog runs to the front of the sofa.",vbench2,Dynamic_Spatial_Relationship,1620
+p00480,dev,"The camera orbits around. New York Hot-Dog Cart, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00482,dev,"Gwen Stacy reading a book, animated style",vbench,appearance_style,641
+p00483,train,A person is slurping noodles from a steaming bowl.,vbench2,Motion_Rationality,1769
+p00484,train,cemetery,vbench,scene,836
+p00486,train,A timelapse captures the reaction as concentrated sulfuric acid is poured onto a bar of soap.,vbench2,Material,1287
+p00487,dev,"a chair on the left of a couch, front view",vbench,spatial_relationship,906
+p00488,dev,"A raccoon that looks like a turtle, digital art.",vbench,overall_consistency,733
+p00489,dev,a sink and a toilet,vbench,multiple_objects,842
+p00493,train,A person is folding clothes,vbench,human_action,222
+p00494,train,Two people are running.,vbench2,Instance_Preservation,1739
+p00495,dev,a purple vase,vbench,color,492
+p00497,dev,"A person is putting on shoes, then they suddenly start making a sandwich.",vbench2,Human_Anatomy|Human_Clothes|Motion_Order_Understanding,1020
+p00499,dev,skyscraper,vbench,scene,856
+p00500,train,"A kangaroo is on the left of a small box, then the kangaroo jumps to the right of the box.",vbench2,Dynamic_Spatial_Relationship,1650
+p00501,train,A person is biting into an apple.,vbench2,Motion_Rationality,1773
+p00502,dev,a dog running happily,vbench,subject_consistency,733
+p00503,train,"The match began, and Team A quickly found their rhythm. A series of fast attacks put pressure on Team B’s defense. Team A's forward made two three-pointers, quickly increasing the",vbench2,Complex_Plot,1083
+p00504,dev,"The camera begins with a vast salt flat stretching endlessly, the ground covered in white crystalline salt, cracked and broken as if wounded. The dry earth shines under the sunligh",vbench2,Complex_Landscape,1612
+p00505,train,An astronaut is riding a horse in the space in a photorealistic style.,vbench,overall_consistency,745
+p00506,train,A person is shaking head,vbench,human_action,250
+p00507,train,One person cleans another person’s shoes.,vbench2,Human_Interaction,1572
+p00509,train,"A hand presses a sharp pencil into the surface of a thin rubber glove, with the tip gradually sinking into the material.",vbench2,Mechanics,1838
+p00510,train,"A beautiful coastal beach in spring, waves lapping on sand, tilt down",vbench,temporal_style,742
+p00511,train,An orange cat and a white cat are fighting.,vbench2,Instance_Preservation,1398
+p00512,train,"Table, pan left.",vbench2,Camera_Motion,1177
+p00513,dev,"The camera starts at a distance, showing an abandoned city with empty streets, shattered glass windows in high-rise buildings, and winds blowing dust and discarded advertisements.",vbench2,Complex_Landscape,1612
+p00514,train,arch,vbench,scene,834
+p00515,dev,"A piece of white chalk is used to draw on the rough, grey surface of a concrete wall, showing the frictional interaction between the chalk and the wall.",vbench2,Mechanics,1852
+p00516,train,"A rabbit and a turtle racing on a track. The rabbit is sprinting ahead, while the turtle is steadily moving along. Spectators are cheering from the sidelines, and a finish line is visible in the distance.",tahard,ta_hard,2013
+p00517,train,Two people are putting away groceries together.,vbench2,Human_Interaction,1583
+p00518,train,a blue bowl,vbench,color,721
+p00519,train,"A person is folding clothes, then they suddenly get up and start reading a book.",vbench2,Human_Anatomy|Human_Clothes|Human_Identity|Motion_Order_Understanding,222
+p00520,train,a tie and a suitcase,vbench,multiple_objects,355
+p00521,dev,"The camera orbits around. Remote, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00522,train,a laptop and a remote,vbench,multiple_objects,837
+p00523,dev,a person and a toilet,vbench,multiple_objects,901
+p00524,dev,The camera orbits around in a clockwise direction. Blue Lagoon.,vbench2,Camera_Motion,1233
+p00525,dev,A woman is riding a bike.,vbench2,Human_Anatomy|Human_Clothes,1780
+p00526,dev,a white chair,vbench,color,474
+p00532,train,One person hands a cup of water to another.,vbench2,Human_Anatomy|Human_Interaction,1749
+p00533,train,"Pacific coast, carmel by the sea ocean and waves.",vbench,overall_consistency,742
+p00534,train,this is how I do makeup in the morning.,vbench,overall_consistency,715
+p00535,train,A car changes from white to red.,vbench2,Dynamic_Attribute,1412
+p00536,train,A person is giving or receiving award,vbench,human_action,258
+p00537,train,An orange cat is running.,vbench2,Instance_Preservation,1398
+p00538,train,Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.,vbench,overall_consistency,579
+p00539,dev,"The camera orbits around. Rocket, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00540,train,a book and a clock,vbench,multiple_objects,889
+p00541,dev,"Gwen Stacy reading a book, black and white",vbench,appearance_style,641
+p00542,dev,A timelapse captures the oxidation of a metal garden trowel left outdoors in the rain over several seasons.,vbench2,Material,1614
+p00544,dev,"The camera begins under a heavy blanket of clouds, with cold winds howling across the snow-covered plains. The world is blanketed in pure white snow, with distant mountains barely",vbench2,Complex_Landscape,1612
+p00545,train,Two giraffes are walking.,vbench2,Instance_Preservation,1395
+p00547,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt up",vbench,temporal_style,558
+p00548,dev,a white vase,vbench,color,492
+p00549,train,train railway,vbench,scene,854
+p00552,train,A person is tying tie,vbench,human_action,355
+p00553,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt up",vbench,temporal_style,552
+p00554,dev,bathroom,vbench,scene,842
+p00555,dev,"Alhambra, pan right.",vbench2,Camera_Motion,1186
+p00556,train,"A bird is on the right of a lightbulb, then the bird flies behind the lightbulb.",vbench2,Dynamic_Spatial_Relationship,1666
+p00557,train,A timelapse captures the gradual transformation of a piece of ice as the temperature rises to -10°C.,vbench2,Thermotics,1466
+p00558,dev,a parking meter and a truck,vbench,multiple_objects,867
+p00559,train,"A timelapse of air being gradually extracted from a sealed, empty plastic bottle with a flexible body.",vbench2,Mechanics,1828
+p00560,train,"A dog is behind a chair, then the dog runs to the right of the chair.",vbench2,Dynamic_Spatial_Relationship,1620
+p00561,train,A tranquil tableau of an antique bowl,vbench,temporal_flickering,30
+p00562,dev,A woman is doing exercises.,vbench2,Human_Anatomy|Human_Clothes|Human_Identity,978
+p00563,train,"A beautiful coastal beach in spring, waves lapping on sand, pan left",vbench,temporal_style,742
+p00564,train,A person is slicing bread with a knife.,vbench2,Motion_Rationality,1773
+p00565,dev,an elephant taking a peaceful walk,vbench,subject_consistency,327
+p00566,train,a black bicycle,vbench,color,416
+p00568,train,"A mystical phoenix librarian wearing tiny spectacles, organizing scrolls with its shimmering wings in an ancient archive filled with magical tomes.",tahard,ta_hard,2028
+p00571,train,A person is getting a haircut,vbench,human_action,406
+p00573,train,"A peacock and a flamingo dancing together in a garden. The peacock is spreading its colorful feathers, while the flamingo is gracefully moving its long neck. The garden is full of blooming flowers and lush greenery.",tahard,ta_hard,2007
+p00575,train,"A piece of iron is ignited, emitting a vivid and unique flame as it burns steadily.",vbench2,Material,1256
+p00577,dev,a truck and a bicycle,vbench,multiple_objects,869
+p00578,train,A woman is cutting objects.,vbench2,Human_Anatomy|Human_Clothes,1782
+p00580,dev,golf course,vbench,scene,846
+p00581,train,an orange bicycle,vbench,color,416
+p00583,dev,Two people are riding a tandem bicycle together.,vbench2,Human_Interaction,1581
+p00584,train,One person hands another a piece of cake.,vbench2,Human_Anatomy|Human_Interaction,1775
+p00586,train,"a shark is swimming in the ocean, pixel art",vbench,appearance_style,764
+p00587,train,A clear glass of coffee is gently poured into a glass of milk.,vbench2,Material,1759
+p00588,train,driveway,vbench,scene,848
+p00589,train,The wooden floor turned into a metal floor.,vbench2,Dynamic_Attribute,1376
+p00590,dev,a truck,vbench,object_class,424
+p00591,dev,"The camera starts from above, showing a desolate battlefield where broken weapons and shattered armor lie scattered across the ground. Deep craters mar the terrain, remnants of the",vbench2,Complex_Landscape,1612
+p00592,train,A wooden spoon with a chef's hat and a metal fork with a bowtie cooking in a kitchen. The spoon stirs a pot while the fork tosses salad.,tahard,ta_hard,2015
+p00593,train,"A spider with the body of a rabbit, scurrying across the ground with immense speed.",vbench2,Composition,1708
+p00595,train,people are dancing.,vbench2,Human_Anatomy,1746
+p00596,train,"a shark is swimming in the ocean, tilt up",vbench,temporal_style,764
+p00598,train,"A panda drinking coffee in a cafe in Paris, black and white",vbench,appearance_style,620
+p00599,train,"A cute happy Corgi playing in park, sunset",vbench,overall_consistency,531
+p00600,train,"A cat is playing with a toy mouse, then it suddenly starts running up the stairs.",vbench2,Motion_Order_Understanding,1074
+p00601,train,A person is writing,vbench,human_action,329
+p00602,dev,a black chair,vbench,color,474
+p00603,train,A timelapse captures the transformation as ammonia solution is poured into a glass of red cabbage juice.,vbench2,Material,1280
+p00604,train,A teddy bear is playing drum kit in NYC Times Square.,vbench,overall_consistency,891
+p00606,dev,"The camera orbits around. Mallet, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00607,train,"The camera movement is static. Garden, static shot, the camera is fixed.",vbench2,Camera_Motion,1223
+p00608,train,"a toaster on the top of a microwave, front view",vbench,spatial_relationship,915
+p00610,train,A tranquil tableau of bathroom,vbench,temporal_flickering,23
+p00611,train,A giraffe is walking.,vbench2,Instance_Preservation,1395
+p00612,train,"A kangaroo is behind a rock, then the kangaroo jumps to the left of the rock.",vbench2,Dynamic_Spatial_Relationship,1650
+p00615,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, in super slow motion",vbench,temporal_style,558
+p00616,dev,A woman is running.,vbench2,Human_Anatomy|Human_Clothes,1780
+p00617,train,"A modern art museum, with colorful paintings",vbench,overall_consistency,841
+p00618,train,"A tranquil tableau of beneath the shade of a solitary oak tree, an old wooden park bench sat patiently",vbench,temporal_flickering,68
+p00619,train,A tranquil tableau of a dining table,vbench,temporal_flickering,701
+p00620,train,a keyboard,vbench,object_class,830
+p00621,dev,"a motorcycle on the left of a bus, front view",vbench,spatial_relationship,862
+p00624,train,a refrigerator,vbench,object_class,821
+p00625,train,"A horse is standing in the stable, then it suddenly starts chewing hay.",vbench2,Motion_Order_Understanding,1075
+p00627,train,"A beautiful coastal beach in spring, waves lapping on sand, watercolor painting",vbench,appearance_style,742
+p00628,dev,"The camera orbits around. Bag, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00630,train,"a hot dog on the top of a pizza, front view",vbench,spatial_relationship,927
+p00631,train,A person is cutting a bell pepper.,vbench2,Motion_Rationality,1773
+p00632,train,"The camera movement is static. Table, static shot, the camera is fixed.",vbench2,Camera_Motion,1223
+p00633,train,Campfire at night in a snowy forest with starry sky in the background.,vbench,overall_consistency,712
+p00634,train,"A horse is standing still, then it suddenly starts trotting around in a circle.",vbench2,Motion_Order_Understanding,1075
+p00635,dev,"The camera orbits around. Basket, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00637,dev,"A cat is in front of a table, then the cat jumps to the bottom of the table.",vbench2,Dynamic_Spatial_Relationship,1633
+p00638,train,"A horse is running along the beach, then it suddenly stops and starts grazing.",vbench2,Motion_Order_Understanding,1691
+p00639,train,"The camera movement is static. Pyramid, static shot, the camera is fixed.",vbench2,Camera_Motion,1223
+p00640,train,"A person is drinking a smoothie, then they suddenly start folding clothes.",vbench2,Human_Anatomy|Human_Clothes|Human_Identity|Motion_Order_Understanding,1771
+p00643,train,"A whale, a bicycle, a notebook, and a lamp are having a race. The whale is swimming in the ocean and the bicycle is moving across land, but the notebook keeps opening and closing,",vbench2,Composition,1734
+p00644,train,A clear glass of coconut oil is gently poured into a glass of water.,vbench2,Material,1268
+p00645,train,A torch changes from dim to bright.,vbench2,Dynamic_Attribute,1335
+p00646,train,Fireworks.,vbench,overall_consistency,767
+p00647,train,"An astronaut flying in space, tilt up",vbench,temporal_style,745
+p00648,train,"A cute happy Corgi playing in park, sunset, black and white",vbench,appearance_style,531
+p00649,train,"A bouncing rubber ball is rolled forcefully towards a wall, with its dynamic bounce captured as it rebounds off the surface.",vbench2,Mechanics,1845
+p00650,train,windmill,vbench,scene,859
+p00651,train,"A panda drinking coffee in a cafe in Paris, tilt down",vbench,temporal_style,620
+p00652,train,A cat changes from small to big.,vbench2,Dynamic_Attribute,1434
+p00653,train,"A kite and a balloon flying side by side, each drifting gracefully in the wind.",vbench2,Composition,1726
+p00654,train,"Pyramid, pan right.",vbench2,Camera_Motion,1177
+p00655,train,"An elephant is on the right of a car, then the elephant walks to the front of the car.",vbench2,Dynamic_Spatial_Relationship,1683
+p00656,train,"The three little pigs decide to build their own houses. The eldest pig chooses straw, the second pig uses wood, and the youngest pig carefully selects bricks to build a sturdy home",vbench2,Complex_Plot,1571
+p00658,train,an airplane taking off,vbench,subject_consistency,280
+p00660,train,"Ashtray full of butts on table, smoke flowing on black background, close-up",vbench,overall_consistency,726
+p00661,train,a remote,vbench,object_class,834
+p00662,train,"a laptop, frozen in time",vbench,temporal_flickering,837
+p00663,train,a sandwich and a book,vbench,multiple_objects,401
+p00664,train,Sunset time lapse at the beach with moving clouds and colors in the sky.,vbench,overall_consistency,742
+p00665,train,"The camera movement is static. Mount Fuji, static shot, the camera is fixed.",vbench2,Camera_Motion,1223
+p00666,train,"A beautiful coastal beach in spring, waves lapping on sand, Van Gogh style",vbench,appearance_style,742
+p00667,train,"A knight in shining armor and a wizard with a long, flowing beard practicing archery in a medieval courtyard. The knight is aiming at a target with a longbow, while the wizard is using magic to guide the arrows. The courtyard is surrounded by stone walls and blooming flowers.",tahard,ta_hard,2028
+p00668,dev,a chair,vbench,object_class,474
+p00669,dev,"Mount Fuji, zoom in.",vbench2,Camera_Motion,1159
+p00670,train,A butterfly's wings change from yellow to white.,vbench2,Dynamic_Attribute,1306
+p00672,train,"A sharp needle slowly presses into the surface of an inflated rubber balloon, with the point gradually puncturing the outer layer.",vbench2,Mechanics,1838
+p00674,dev,The camera orbits around in a clockwise direction. Watch.,vbench2,Camera_Motion,1233
+p00675,train,"A cat and a dog baking a cake together in a kitchen. The cat is carefully measuring flour, while the dog is stirring the batter with a wooden spoon. The kitchen is cozy, with sunlight streaming through the window.",tahard,ta_hard,2013
+p00676,train,A person is pulling the blinds down.,vbench2,Motion_Rationality,1802
+p00678,dev,a motorcycle and a boat,vbench,multiple_objects,862
+p00681,dev,"A cat is on the table, then the cat runs to the front of the table.",vbench2,Dynamic_Spatial_Relationship,1633
+p00682,dev,"In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity",vbench,temporal_flickering,48
+p00683,train,a bus and a traffic light,vbench,multiple_objects,863
+p00684,train,"A snowflake and a flame performing a duet, the snowflake twirling while the flame dances around it.",vbench2,Composition,1723
+p00685,train,One person adjusts the glasses of another.,vbench2,Human_Anatomy|Human_Interaction,1562
+p00686,train,"Machu Picchu, zoom out.",vbench2,Camera_Motion,1213
+p00690,train,A small burning piece of paper was thrown into a pile of dried flowers.,vbench2,Material,1723
+p00691,train,"A horse is grazing near a fence, then it suddenly starts running across the field.",vbench2,Motion_Order_Understanding,1691
+p00692,dev,The camera orbits around in a clockwise direction. Table.,vbench2,Camera_Motion,1233
+p00693,train,The wooden frame transformed into a metal frame.,vbench2,Dynamic_Attribute,1376
+p00694,dev,glacier,vbench,scene,856
+p00695,train,Two black drones are floating in the air.,vbench2,Instance_Preservation,1726
+p00696,train,"A cute happy Corgi playing in park, sunset, featuring a steady and smooth perspective",vbench,temporal_style,531
+p00697,train,Close up of grapes on a rotating table.,vbench,overall_consistency,683
+p00698,train,A tranquil tableau of a bowl on the kitchen counter,vbench,temporal_flickering,701
+p00699,train,"Cinderella’s stepmother and stepsisters made her do all the household chores, and she had to endure their mistreatment. One day, her fairy godmother appeared and gave her a beautif",vbench2,Complex_Plot,1134
+p00700,train,"A giraffe, a vacuum cleaner, a skateboard, and a book are in a race. The giraffe uses its long neck to try to reach the finish line first, while the vacuum cleaner moves backwards,",vbench2,Composition,1734
+p00704,train,A person is riding scooter,vbench,human_action,228
+p00706,train,a keyboard and a cell phone,vbench,multiple_objects,837
+p00707,dev,"Mount Fuji, pan left.",vbench2,Camera_Motion,1159
+p00708,train,A fishing net is gently placed on the surface of a pond filled with water.,vbench2,Mechanics,1817
+p00709,dev,A Mars rover moving on Mars,vbench,overall_consistency,770
+p00710,train,"In a still frame, within the historic library's reading room, rows of antique leather chairs and mahogany tables offered a serene haven for literary contemplation",vbench,temporal_flickering,72
+p00711,train,One person cleans another person’s glasses.,vbench2,Human_Interaction,1572
+p00713,train,"Aerial view, aerial view. Aerial view, aerial view. One blue balls and one red balls are on the wooden table and collide horizontally, bird's-eye view.",vbench2,Instance_Preservation,1409
+p00715,train,a hot dog,vbench,object_class,927
+p00716,dev,"The camera orbits around. Dishwasher, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00717,dev,A person is baby waking up,vbench,human_action,227
+p00719,dev,shower,vbench,scene,842
+p00720,train,A man is playing football.,vbench2,Human_Anatomy|Human_Clothes,1781
+p00721,train,a bus accelerating to gain speed,vbench,subject_consistency,294
+p00723,train,"Machu Picchu, tilt up.",vbench2,Camera_Motion,1213
+p00724,dev,"Gwen Stacy reading a book, zoom out",vbench,temporal_style,641
+p00725,train,"A cup of tea is carefully tilted in the space station, and the liquid floats in various directions.",vbench2,Mechanics,1811
+p00727,train,"Machu Picchu, tilt down.",vbench2,Camera_Motion,1213
+p00728,train,"Pyramid, tilt up.",vbench2,Camera_Motion,1177
+p00729,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas by Hokusai, in the style of Ukiyo",vbench,appearance_style,558
+p00730,train,a dog drinking water,vbench,subject_consistency,326
+p00731,dev,a knife and a tv,vbench,multiple_objects,391
+p00733,train,"A young artist is invited to a remote town to work on restoring life to an ancient sculpture. On the first day, he discovers that the sculpture is covered in the marks of time, see",vbench2,Complex_Plot,1133
+p00735,dev,A person is laughing,vbench,human_action,249
+p00736,train,A person is cracking a crab shell.,vbench2,Motion_Rationality,1773
+p00737,train,A puddle changes from small to large as rain continues to fall.,vbench2,Dynamic_Attribute,1358
+p00738,train,a red bicycle,vbench,color,416
+p00739,train,"A hand presses a pencil into the surface of a thin plastic bag, with the tip gradually penetrating the material.",vbench2,Mechanics,1838
+p00740,train,A red car is moving along the road.,vbench2,Instance_Preservation,1412
+p00741,train,A person is eating pudding with a spoon.,vbench2,Motion_Rationality,1776
+p00742,train,"skis on the top of a snowboard, front view",vbench,spatial_relationship,937
+p00743,train,A snowman changes from large to small.,vbench2,Dynamic_Attribute,1419
+p00744,train,A screen changes from dark to bright.,vbench2,Dynamic_Attribute,1335
+p00745,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan left",vbench,temporal_style,579
+p00746,train,industrial area,vbench,scene,833
+p00747,train,"A child sees a lonely tree every day in a park near his school, always appearing to be alone. On the first day, the child stops under the tree, gently touching its bark, feeling a",vbench2,Complex_Plot,1110
+p00748,dev,Gwen Stacy reading a book,vbench,overall_consistency,641
+p00749,train,"A bird is behind a apple, then the bird flies to the front of the apple.",vbench2,Dynamic_Spatial_Relationship,1655
+p00750,dev,"A person is scrolling through their phone, then they suddenly get up and start organizing the kitchen.",vbench2,Human_Anatomy|Human_Clothes|Motion_Order_Understanding,1020
+p00751,train,An orange dog is running.,vbench2,Instance_Preservation,1398
+p00752,train,One person puts a coat on another person.,vbench2,Human_Anatomy|Human_Interaction,1562
+p00754,train,An animated painting of fluffy white clouds moving in sky.,vbench,overall_consistency,724
+p00755,train,a truck stuck in traffic during rush hour,vbench,subject_consistency,282
+p00757,dev,a motorcycle cruising along a coastal highway,vbench,subject_consistency,862
+p00758,train,"The camera movement is static. Alhambra, static shot, the camera is fixed.",vbench2,Camera_Motion,1223
+p00759,train,"a shark is swimming in the ocean, zoom out",vbench,temporal_style,764
+p00760,train,The wooden furniture turned into plastic furniture.,vbench2,Dynamic_Attribute,1379
+p00762,dev,"The race began, and all the runners sprinted quickly. The runner from Team A quickly took the lead. After a period of steady running, the runners from Team A and Team B gradually c",vbench2,Complex_Plot,1084
+p00763,train,a spoon,vbench,object_class,373
+p00764,dev,an elephant spraying itself with water using its trunk to cool down,vbench,subject_consistency,876
+p00765,dev,"A cat is on the table, then the cat runs to the bottom of the table.",vbench2,Dynamic_Spatial_Relationship,1633
+p00766,dev,"a sports ball on the right of a baseball bat, front view",vbench,spatial_relationship,896
+p00767,train,"A person is washing their hands, then they suddenly start arranging the pillows on the couch.",vbench2,Human_Anatomy|Human_Clothes|Motion_Order_Understanding,993
+p00768,train,"a shark is swimming in the ocean, in cyberpunk style",vbench,appearance_style,764
+p00769,train,A tranquil tableau of alley,vbench,temporal_flickering,726
+p00770,train,a hair drier and a toothbrush,vbench,multiple_objects,406
+p00771,train,One person hands another person a glass of wine.,vbench2,Human_Interaction,1775
+p00772,train,A piece of styrofoam is placed on the surface of a bowl filled with water.,vbench2,Mechanics,1817
+p00773,train,"A dolphin and a sea turtle exploring a coral reef. The dolphin is swimming gracefully, while the sea turtle is gliding slowly beside it. The coral reef is vibrant with colorful corals and various marine life.",tahard,ta_hard,1991
+p00774,dev,"Gwen Stacy reading a book, featuring a steady and smooth perspective",vbench,temporal_style,641
+p00776,train,A person is eating a hot dog.,vbench2,Motion_Rationality,1776
+p00777,dev,a bench,vbench,object_class,388
+p00778,dev,"A cat is under the table, then the cat runs to the front of the table.",vbench2,Dynamic_Spatial_Relationship,1633
+p00779,train,"a sandwich on the top of an orange, front view",vbench,spatial_relationship,921
+p00780,train,"In a frigid northern kingdom, winter never seems to end. Princess Elsa, cursed to be unable to control the ice and snow powers within her, caused the kingdom to fall into an eterna",vbench2,Complex_Plot,1134
+p00781,train,A square pizza slice with a mustache and a round cookie with a bow tie sharing stories on a kitchen counter. The pizza slice gestures with its pepperoni while the cookie crumbles slightly when laughing.,tahard,ta_hard,2015
+p00782,train,"A bird is above a tree, then the bird flies to the right of the tree.",vbench2,Dynamic_Spatial_Relationship,1666
+p00783,train,a bowl and a remote,vbench,multiple_objects,721
+p00784,dev,Two people exchange a book.,vbench2,Human_Anatomy|Human_Interaction,1541
+p00786,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in cyberpunk style",vbench,appearance_style,552
+p00787,train,A panda changes from big to small.,vbench2,Dynamic_Attribute|Instance_Preservation,1434
+p00789,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, surrealism style",vbench,appearance_style,552
+p00790,train,a train and a boat,vbench,multiple_objects,909
+p00791,train,a person giving a presentation to a room full of colleagues,vbench,subject_consistency,258
+p00792,train,"A beautiful coastal beach in spring, waves lapping on sand, zoom in",vbench,temporal_style,742
+p00793,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, featuring a steady and smooth perspective",vbench,temporal_style,552
+p00794,train,supermarket,vbench,scene,849
+p00795,train,waterfall,vbench,scene,859
+p00796,train,A timelapse captures the transformation as sodium hydroxide is added to a glass of red litmus solution.,vbench2,Material,1280
+p00797,train,"a shark is swimming in the ocean, black and white",vbench,appearance_style,764
+p00798,train,"A bottle of ketchup is gently squeezed in the space station, with the thick liquid spreading into the environment.",vbench2,Mechanics,1811
+p00799,train,"In a small town, there were constant rumors about a forest ghost, and the townspeople were afraid to go out at night. One day, a young girl decided to uncover the secret. She enter",vbench2,Complex_Plot,1110
+p00800,dev,"The camera orbits around. Sagrada Familia, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00801,train,hospital,vbench,scene,833
+p00802,train,"A frog and a dragonfly having a picnic by a pond. The frog is sitting on a lily pad with a tiny sandwich, while the dragonfly is perched on a reed, sipping nectar from a flower. The pond is peaceful, with water lilies and gentle ripples.",tahard,ta_hard,2007
+p00803,dev,"In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall",vbench,temporal_flickering,61
+p00804,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, in super slow motion",vbench,temporal_style,552
+p00805,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, with an intense shaking effect",vbench,temporal_style,558
+p00806,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, animated style",vbench,appearance_style,579
+p00807,dev,A confused panda in calculus class,vbench,overall_consistency,752
+p00808,train,"a toaster on the bottom of a microwave, front view",vbench,spatial_relationship,915
+p00809,train,A super robot protecting city,vbench,overall_consistency,765
+p00810,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, surrealism style",vbench,appearance_style,579
+p00811,train,"Pyramid, pan left.",vbench2,Camera_Motion,1177
+p00812,train,"An orange cat is on the left of an apple, then the cat moves to the right of the apple.",vbench2,Instance_Preservation,1433
+p00813,train,gas station,vbench,scene,859
+p00814,train,a motorcycle accelerating to gain speed,vbench,subject_consistency,294
+p00815,train,One person passes a pen to another person to sign something.,vbench2,Human_Interaction,1566
+p00816,train,A person is roller skating,vbench,human_action,243
+p00817,train,"A mystical clockwork oracle covered in zodiac symbols, its gears turning slowly as it reveals prophecies in a temple filled with incense smoke.",tahard,ta_hard,2028
+p00818,dev,"A cat is under the table, then the cat runs to the left of the table.",vbench2,Dynamic_Spatial_Relationship,1633
+p00819,dev,a baseball glove and a skateboard,vbench,multiple_objects,896
+p00821,train,Two people are measuring something with a tape measure.,vbench2,Human_Interaction,1797
+p00823,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, oil painting",vbench,appearance_style,558
+p00824,dev,A corgi's head depicted as an explosion of a nebula,vbench,overall_consistency,733
+p00825,dev,"Gwen Stacy reading a book, tilt up",vbench,temporal_style,641
+p00826,dev,A timelapse records the corrosion of a metal toolbox left outside in humid weather for several years.,vbench2,Material,1614
+p00827,train,A person is washing hands,vbench,human_action,766
+p00829,dev,"The camera orbits around. Trash Bin, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00834,train,a clock,vbench,object_class,889
+p00835,train,"a carrot on the top of a hot dog, front view",vbench,spatial_relationship,927
+p00836,dev,One person adjusts the settings on another person’s phone.,vbench2,Human_Interaction,1795
+p00838,dev,"A tranquil tableau of in the desolate beauty of the American Southwest, Chaco Canyon's ancient ruins whispered tales of an enigmatic civilization that once thrived amidst the arid landscapes",vbench,temporal_flickering,63
+p00839,train,"A painter with a beret and a poet with a quill creating art in a sunlit studio. The painter is working on a vibrant canvas, while the poet is writing verses inspired by the artwork. The studio is filled with natural light and creative energy, with art supplies scattered around.",tahard,ta_hard,2013
+p00840,train,"A horse is trotting around a stable, then it suddenly stops to drink water.",vbench2,Motion_Order_Understanding,1075
+p00841,train,"A panda drinking coffee in a cafe in Paris, oil painting",vbench,appearance_style,620
+p00842,dev,outdoor track,vbench,scene,852
+p00843,dev,"The camera orbits around. Banana, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00844,train,"A whale performing a backflip in the ocean, leaping gracefully out of the water and flipping mid-air.",vbench2,Composition,1712
+p00845,dev,a boat sailing smoothly on a calm lake,vbench,subject_consistency,292
+p00847,train,A streetlight changes from off to on.,vbench2,Dynamic_Attribute,1335
+p00848,train,"A panda drinking coffee in a cafe in Paris, zoom in",vbench,temporal_style,620
+p00849,train,"A beautiful coastal beach in spring, waves lapping on sand, animated style",vbench,appearance_style,742
+p00851,train,"The camera movement is static. Burj Khalifa, static shot, the camera is fixed.",vbench2,Camera_Motion,1223
+p00852,train,"The raiders entered an ancient royal tomb, where they found a peculiar coffin containing a perfectly preserved corpse. The walls of the tomb were inscribed with a prophecy about a",vbench2,Complex_Plot,1129
+p00854,train,"Pyramid, tilt down.",vbench2,Camera_Motion,1177
+p00855,train,"An epic tornado attacking above a glowing city at night, the tornado is made of smoke",vbench,overall_consistency,767
+p00856,dev,A person is shaking hands,vbench,human_action,249
+p00861,train,a teddy bear is swimming in the ocean.,vbench,overall_consistency,769
+p00862,train,"A beautiful coastal beach in spring, waves lapping on sand, racking focus",vbench,temporal_style,742
+p00863,train,A person is taking a shower,vbench,human_action,406
+p00864,train,"An astronaut flying in space, zoom out",vbench,temporal_style,745
+p00865,dev,a bed,vbench,object_class,388
+p00866,train,"In a still frame, phone booth",vbench,temporal_flickering,837
+p00867,train,A piece of fabric changes from blue to pink.,vbench2,Dynamic_Attribute,1315
+p00868,train,"A squirrel is on the left of a hut, then the squirrel jumps to the right of the hut.",vbench2,Dynamic_Spatial_Relationship,1639
+p00871,train,A timelapse captures the transformation of camphor as it is exposed to a temperature of 120°C.,vbench2,Thermotics,1477
+p00873,dev,"The camera orbits around. Statue, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00874,train,bedroom,vbench,scene,833
+p00875,train,"Forbidden City, pan right.",vbench2,Camera_Motion,1222
+p00876,dev,A woman is jumping.,vbench2,Human_Anatomy|Human_Clothes|Human_Identity,978
+p00878,train,A person is arranging flowers,vbench,human_action,241
+p00879,train,A person is pushing cart,vbench,human_action,208
+p00880,train,"The camera starts at the edge of a deep cliff, where a crack runs through the rock, revealing the molten lava beneath, its orange glow flickering within the black stone. In the dis",vbench2,Complex_Landscape,1607
+p00881,dev,"Blue Lagoon, tilt down.",vbench2,Camera_Motion,1168
+p00882,dev,The camera orbits around in a clockwise direction. Alhambra.,vbench2,Camera_Motion,1233
+p00884,train,A red ball bouncing down stairs,vbench2,Instance_Preservation,1409
+p00885,dev,Two people shake hands.,vbench2,Human_Anatomy|Human_Interaction,1795
+p00886,dev,"The camera orbits around. Jade Sword, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00887,train,"The match began, and Team A quickly gained the upper hand with several precise kills, taking a 11-6 lead. The Team B player stayed calm and gradually adjusted, finding ways to resp",vbench2,Complex_Plot,1083
+p00888,train,A person is bandaging,vbench,human_action,225
+p00889,dev,A friendly traffic light with changing expressions and a street sign with arms pointing directions to lost tourists. The traffic light blinks cheerfully while the sign waves its arrows.,tahard,ta_hard,2016
+p00890,train,"The match started, and Team A quickly scored points with a series of high-quality serves, taking the lead early on. Team B kept up the pressure in the first set but was unable to b",vbench2,Complex_Plot,1083
+p00892,dev,a bear hunting for prey,vbench,subject_consistency,350
+p00893,train,Two white sheep are eating grass.,vbench2,Instance_Preservation,1401
+p00894,dev,"A tranquil tableau of a tranquil lakeside cabin nestled among tall pines, its reflection mirrored perfectly in the calm water",vbench,temporal_flickering,288
+p00895,dev,"A clock with a face and moving hands and a calendar with arms and legs planning a schedule in a busy office. The clock is ticking and keeping track of time, while the calendar is flipping through its pages and marking important dates. The office is bustling with activity and filled with desks and computers.",tahard,ta_hard,2016
+p00896,train,"A cute happy Corgi playing in park, sunset, pixel art",vbench,appearance_style,531
+p00897,train,"The camera movement is static. Forbidden City, static shot, the camera is fixed.",vbench2,Camera_Motion,1223
+p00899,dev,"The camera orbits around. Watercraft, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00903,train,A flower changes from purple to orange.,vbench2,Dynamic_Attribute,1306
+p00904,dev,an orange chair,vbench,color,474
+p00907,train,"Sewing machine, old sewing machine working.",vbench,overall_consistency,821
+p00908,train,"In a still frame, amidst the hushed ambiance of the traditional tea room, a meticulously arranged tea set awaited, with porcelain cups, a bamboo whisk",vbench,temporal_flickering,66
+p00909,train,"A beautiful coastal beach in spring, waves lapping on sand, in cyberpunk style",vbench,appearance_style,742
+p00910,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, surrealism style",vbench,appearance_style,558
+p00911,dev,"A fox is in front of a shoe, then the fox runs to the behind of the shoe.",vbench2,Dynamic_Spatial_Relationship,1646
+p00912,train,"A horse is walking in the field, then it suddenly starts galloping in the distance.",vbench2,Motion_Order_Understanding,1691
+p00913,train,One person ties a scarf around another person’s neck.,vbench2,Human_Anatomy|Human_Interaction,1537
+p00914,train,a yellow cat,vbench,color,438
+p00915,train,The plastic boat hull turned into a wooden boat hull.,vbench2,Dynamic_Attribute,1382
+p00917,train,Two people are cutting vegetables together.,vbench2,Human_Interaction,1773
+p00918,dev,"a toilet on the left of a hair drier, front view",vbench,spatial_relationship,901
+p00919,train,campsite,vbench,scene,834
+p00921,dev,"A superhero with a cape and a detective with a magnifying glass solving a mystery in a bustling city. The superhero is flying above the streets, scanning for clues, while the detective is examining evidence on the ground. The city is alive with activity, with skyscrapers towering overhead.",tahard,ta_hard,2016
+p00922,train,"In a kingdom covered by eternal snow, there lived a legendary Snow Queen, whose palace hid countless treasures. A young girl named Nora, searching for her missing father, decided t",vbench2,Complex_Plot,1134
+p00926,train,A 3D model of a 1800s victorian house.,vbench,overall_consistency,714
+p00927,dev,"A silver pen is used to write on the rough, textured surface of a cardboard box, capturing the mark left by the pen due to friction.",vbench2,Mechanics,1852
+p00928,dev,an elephant and a bear,vbench,multiple_objects,876
+p00929,dev,"The camera orbits around. Drone, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00930,dev,A wall changes from yellow to grey.,vbench2,Dynamic_Attribute,1318
+p00933,dev,"The camera orbits around. Stonehenge, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00934,train,Two people are hanging a picture on the wall.,vbench2,Human_Anatomy|Human_Interaction,1784
+p00935,train,A red ball and a blue ball bouncing down stairs,vbench2,Instance_Preservation,1409
+p00937,dev,"A fox is on the right of a shoe, then the fox runs to the front of the shoe.",vbench2,Dynamic_Spatial_Relationship,1646
+p00939,train,"Splash of turquoise water in extreme slow motion, alpha channel included.",vbench,overall_consistency,724
+p00940,train,"A colorful rubber ball is dropped from a height, showing the bounce of the ball as it makes contact with the hard floor.",vbench2,Mechanics,1845
+p00941,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, with an intense shaking effect",vbench,temporal_style,552
+p00942,train,"A bird is perched on a branch, then it suddenly flies down to the ground.",vbench2,Motion_Order_Understanding,1666
+p00943,train,indoor movie theater,vbench,scene,841
+p00945,train,A teddy bear washing the dishes,vbench,overall_consistency,766
+p00946,train,A round bubble with rainbow swirls and a square soap bar with a smile skating on a wet sink. The bubble floats and spins while the soap slides and glides.,tahard,ta_hard,2014
+p00947,train,"In a still frame, a pear",vbench,temporal_flickering,683
+p00948,train,courtyard,vbench,scene,859
+p00949,dev,A person is crying,vbench,human_action,249
+p00950,train,an orange,vbench,object_class,923
+p00953,dev,a sink,vbench,object_class,842
+p00954,train,A person is tai chi,vbench,human_action,233
+p00955,train,a hot dog and a handbag,vbench,multiple_objects,355
+p00956,train,A tranquil tableau of the phone booth was tucked away in a quiet alley,vbench,temporal_flickering,726
+p00957,train,a toaster and a teddy bear,vbench,multiple_objects,891
+p00958,train,A panda changes from small to big.,vbench2,Dynamic_Attribute|Instance_Preservation,1434
+p00960,train,"A timelapse of air being gradually and forcefully removed from a sealed, empty soda can.",vbench2,Mechanics,1828
+p00961,train,"The camera movement is static. Blue Lagoon, static shot, the camera is fixed.",vbench2,Camera_Motion,1223
+p00962,train,"A cute happy Corgi playing in park, sunset, oil painting",vbench,appearance_style,531
+p00964,train,a laptop,vbench,object_class,837
+p00965,train,Busy freeway at night.,vbench,overall_consistency,863
+p00966,dev,"Gwen Stacy reading a book, racking focus",vbench,temporal_style,641
+p00967,train,"a shark is swimming in the ocean, featuring a steady and smooth perspective",vbench,temporal_style,764
+p00970,train,a motorcycle slowing down to stop,vbench,subject_consistency,749
+p00973,dev,"A cat is under the table, then the cat runs to the back of the table.",vbench2,Dynamic_Spatial_Relationship,1633
+p00974,train,A room changes from dark to bright as sunlight enters.,vbench2,Dynamic_Attribute,1335
+p00975,train,"A cute happy Corgi playing in park, sunset, tilt down",vbench,temporal_style,531
+p00976,dev,"The camera orbits around. Faucet, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p00979,train,"A bird is above a tree, then the bird flies to the left of the tree.",vbench2,Dynamic_Spatial_Relationship,1666
+p00980,train,A tranquil tableau of a bunch of grapes,vbench,temporal_flickering,683
+p00981,train,Two people are loading boxes into a car together.,vbench2,Human_Interaction,1583
+p00983,train,"A lion with the ears of a bat, the body of a whale, the claws of an eagle, and the wings of a dragon, an unstoppable predator both in the sea and in the sky.",vbench2,Composition,1712
+p00985,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan right",vbench,temporal_style,552
+p00986,train,"a knife on the left of a spoon, front view",vbench,spatial_relationship,885
+p00987,dev,"The camera orbits around. Mount Fuji, the camera circles around.",vbench2,Multi-View_Consistency,1883
+p00988,train,"The camera begins with a vast lavender field stretching into the distance, the purple flowers swaying like waves in the breeze. The sun rises behind distant hills, casting a warm g",vbench2,Complex_Landscape,1604
+p00989,train,"A person is drinking water, then they suddenly start organizing their desk.",vbench2,Human_Anatomy|Human_Clothes|Human_Identity|Motion_Order_Understanding,1771
+p00990,train,"A dog is on the right of a table, then the dog runs to the left of the table.",vbench2,Dynamic_Spatial_Relationship,1620
+p00992,train,"A cute happy Corgi playing in park, sunset, with an intense shaking effect",vbench,temporal_style,531
+p00993,train,downtown,vbench,scene,833
+p00994,dev,a sheep taking a peaceful walk,vbench,subject_consistency,327
+p00996,dev,The camera circles around. Garden.,vbench2,Diversity,1233
+p00997,train,One person holds an umbrella over another person.,vbench2,Human_Interaction,1550
+p00998,dev,a tv and a laptop,vbench,multiple_objects,391
+p00999,dev,A person is smoking,vbench,human_action,249
+p01000,dev,"static view on a desert scene with an oasis, palm trees, and a clear, calm pool of water",vbench,temporal_flickering,48
+p01001,train,"an oven on the bottom of a toaster, front view",vbench,spatial_relationship,915
+p01002,dev,"A fox is in front of a shoe, then the fox runs to the right of the shoe.",vbench2,Dynamic_Spatial_Relationship,1646
+p01003,train,"A dog is running around the yard, then it suddenly stops and lies down in the shade.",vbench2,Motion_Order_Understanding,1076
+p01005,dev,"Mount Fuji, tilt up.",vbench2,Camera_Motion,1159
+p01006,train,a person and a hair drier,vbench,multiple_objects,406
+p01008,train,"A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo",vbench,appearance_style|overall_consistency,742
+p01009,dev,a bear climbing a tree,vbench,subject_consistency,350
+p01010,dev,mountain,vbench,scene,856
+p01011,dev,A person is kissing,vbench,human_action,249
+p01012,train,Two people are tying balloons together.,vbench2,Human_Interaction,1784
+p01014,train,"A horse is eating grass, then it suddenly starts trotting around in a circle.",vbench2,Motion_Order_Understanding,1691
+p01015,train,A timelapse captures the transformation as sulfuric acid is added to a solution of sodium bicarbonate.,vbench2,Material,1280
+p01016,train,"A cute happy Corgi playing in park, sunset, zoom out",vbench,temporal_style,531
+p01017,dev,A person is crawling baby,vbench,human_action,227
+p01018,train,a traffic light,vbench,object_class,863
+p01020,train,"an airplane on the left of a train, front view",vbench,spatial_relationship,909
+p01021,train,music studio,vbench,scene,830
+p01022,train,"A lone samurai robot with traditional armor plates and glowing eyes, practicing sword forms in a misty bamboo grove as cherry blossoms fall.",tahard,ta_hard,2028
+p01023,train,a white bowl,vbench,color,721
+p01024,dev,"The camera orbits around. Mount Kilimanjaro, the camera circles around.",vbench2,Multi-View_Consistency,1883
+p01025,dev,a dog enjoying a peaceful walk,vbench,subject_consistency,327
+p01026,train,"An inflatable rubber toy ball is dropped onto the floor, with the bounce showing the material’s elasticity as it rebounds.",vbench2,Mechanics,1845
+p01027,train,Two people are feeding each other at a picnic.,vbench2,Human_Anatomy|Human_Interaction,1775
+p01028,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan left",vbench,temporal_style,558
+p01029,train,"Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.",vbench,overall_consistency,724
+p01030,dev,"In a still frame, within the desolate desert, an oasis unfolded, characterized by the stoic presence of palm trees and a motionless, glassy pool of water",vbench,temporal_flickering,48
+p01031,dev,A woman is playing basketball.,vbench2,Human_Anatomy|Human_Clothes|Human_Identity,978
+p01032,train,A lion changes from big to small.,vbench2,Dynamic_Attribute,1434
+p01033,train,"A toaster jumping over an obstacle course, popping up bread slices as it leaps.",vbench2,Composition,1765
+p01034,train,a frisbee,vbench,object_class,891
+p01036,train,"In a still frame, a park bench with a view of the lake",vbench,temporal_flickering,68
+p01037,train,A timelapse captures the transformation as sodium bicarbonate is added to a cup of vinegar.,vbench2,Material,1280
+p01039,train,Two people are building a puzzle together.,vbench2,Human_Anatomy|Human_Interaction,1571
+p01040,train,A man is jumping.,vbench2,Human_Anatomy|Human_Clothes,1781
+p01041,train,a sandwich,vbench,object_class,401
+p01042,train,people are doing yoga.,vbench2,Human_Anatomy,1737
+p01043,train,an orange clock,vbench,color,889
+p01044,train,bridge,vbench,scene,834
+p01046,train,"A beautiful coastal beach in spring, waves lapping on sand, oil painting",vbench,appearance_style,742
+p01047,train,One person helps another person tie a bow tie.,vbench2,Human_Interaction,1537
+p01048,train,The glass car window changed into a wooden car window.,vbench2,Dynamic_Attribute,1382
+p01049,train,A steam train moving on a mountainside,vbench,overall_consistency,854
+p01050,train,"A piece of calcium is ignited, emitting a vivid and unique flame as it burns steadily.",vbench2,Material,1256
+p01051,train,A timelapse captures the gradual transformation of a candle as the temperature rises to 40°C.,vbench2,Thermotics,1477
+p01052,train,"a vase on the right of scissors, front view",vbench,spatial_relationship,890
+p01053,train,a boat accelerating to gain speed,vbench,subject_consistency,294
+p01054,train,"A beautiful coastal beach in spring, waves lapping on sand, featuring a steady and smooth perspective",vbench,temporal_style,742
+p01055,train,"A piece of sodium chloride is ignited, emitting a vivid and unique flame as it burns steadily.",vbench2,Material,1256
+p01056,train,"Vase, pan right.",vbench2,Camera_Motion,1195
+p01057,train,"A dog is sitting in the yard, then it suddenly starts running in circles.",vbench2,Diversity|Motion_Order_Understanding,1073
+p01059,train,"A dog is barking at the mailman, then it suddenly starts lying down on the mat.",vbench2,Motion_Order_Understanding,1076
+p01060,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, Van Gogh style",vbench,appearance_style,552
+p01061,train,Two people are holding hands while sitting on a bench.,vbench2,Human_Interaction,1550
+p01062,train,A gemstone changes from dull to bright.,vbench2,Dynamic_Attribute,1335
+p01063,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, tilt down",vbench,temporal_style,552
+p01064,train,A panda cooking in the kitchen,vbench,overall_consistency,759
+p01065,train,A beige tiger changes from small to big.,vbench2,Instance_Preservation,1434
+p01068,train,"A wandering alchemist with potion-filled vials clinking on their belt, gathering herbs in an enchanted forest where mushrooms glow and flowers whisper secrets.",tahard,ta_hard,2028
+p01069,train,a cell phone and a book,vbench,multiple_objects,837
+p01070,train,a blue clock,vbench,color,889
+p01071,train,"A soft rubber duck is tossed onto the floor, showing its energetic bounce as it strikes the surface.",vbench2,Mechanics,1845
+p01072,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pixel art",vbench,appearance_style,579
+p01073,train,"A cat is sitting on the windowsill, then it suddenly jumps down and starts exploring the room.",vbench2,Motion_Order_Understanding,1074
+p01074,train,"A timelapse of air being gradually and forcefully pulled out from a sealed, empty metal pipe.",vbench2,Mechanics,1828
+p01077,train,"A timelapse of air being extracted from a sealed, empty plastic pouch.",vbench2,Mechanics,1828
+p01078,dev,A woman is walking.,vbench2,Human_Anatomy|Human_Clothes,1780
+p01079,train,"A giraffe with the scales of a fish, able to glide smoothly through the water.",vbench2,Composition,1710
+p01080,dev,Two people are exchanging business cards.,vbench2,Human_Interaction,1795
+p01082,dev,"The camera orbits around. Microphone, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01083,train,basement,vbench,scene,834
+p01084,train,a car slowing down to stop,vbench,subject_consistency,749
+p01085,dev,"The camera orbits around. Bottle, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01086,train,a toothbrush,vbench,object_class,900
+p01087,train,"A frog and a dragonfly reading books together by a pond. The frog is sitting on a lily pad with a book in its hands, while the dragonfly is perched on a reed, holding a tiny book. The pond is peaceful, with water lilies and gentle ripples.",tahard,ta_hard,2007
+p01088,train,train station platform,vbench,scene,854
+p01089,train,bar,vbench,scene,834
+p01090,train,"A dog is sitting by the door, then it suddenly starts running in circles.",vbench2,Motion_Order_Understanding,1073
+p01091,train,"A person is talking on the phone, then they suddenly start folding paper airplanes.",vbench2,Human_Anatomy|Human_Clothes|Motion_Order_Understanding,222
+p01092,train,One person places a chair for another to sit in.,vbench2,Human_Anatomy|Human_Interaction,1579
+p01093,train,A small burning piece of cardboard was thrown into a pile of dry leaves.,vbench2,Material,1723
+p01094,train,A lamp changes from dim to bright.,vbench2,Dynamic_Attribute,1335
+p01096,train,"a spoon on the right of a bowl, front view",vbench,spatial_relationship,885
+p01097,train,One person ties a ribbon around another person’s wrist.,vbench2,Human_Interaction,1537
+p01098,train,A happy crayon with a cape and a shy pencil with glasses drawing together on paper. The crayon makes bold colorful strokes while the pencil adds careful details.,tahard,ta_hard,2013
+p01100,train,"a hot dog on the bottom of a pizza, front view",vbench,spatial_relationship,927
+p01101,train,a bus stuck in traffic during rush hour,vbench,subject_consistency,282
+p01102,train,"A kangaroo and a koala painting a mural on a wall in a city park. The kangaroo is holding a paintbrush with its paw, while the koala is adding details with a smaller brush. The park is filled with people enjoying the day.",tahard,ta_hard,2013
+p01103,train,"a shark is swimming in the ocean, racking focus",vbench,temporal_style,764
+p01105,dev,"a baseball glove on the right of a tennis racket, front view",vbench,spatial_relationship,896
+p01106,train,A plastic toy is placed on the surface of a pond filled with water.,vbench2,Mechanics,1817
+p01107,train,"an oven on the top of a toaster, front view",vbench,spatial_relationship,915
+p01108,train,"A crocodile with the arms of a gorilla, the legs of a cheetah, the scales of a snake, and the eyes of a chameleon, an apex predator in both land and water.",vbench2,Composition,1712
+p01111,train,"A squirrel and a chipmunk building a treehouse in a large oak tree. The squirrel is hammering nails, while the chipmunk is holding a blueprint. The tree is tall and sturdy, with branches full of leaves.",tahard,ta_hard,2013
+p01112,dev,a motorcycle and a bus,vbench,multiple_objects,862
+p01113,train,A beige lion changes from big to small.,vbench2,Instance_Preservation,1434
+p01114,train,The wooden toy turned into a glass toy.,vbench2,Dynamic_Attribute,1383
+p01115,train,A person is filling eyebrows,vbench,human_action,715
+p01116,train,A person is squeezing ketchup onto a plate.,vbench2,Motion_Rationality,1773
+p01117,train,A tranquil tableau of a cup,vbench,temporal_flickering,30
+p01119,train,One person is passing a towel to another person.,vbench2,Human_Interaction,1797
+p01120,train,A person is eating a slice of pizza.,vbench2,Motion_Rationality,1776
+p01121,dev,"a bench on the left of a truck, front view",vbench,spatial_relationship,869
+p01122,train,"A penguin, a car, a rope, and a tiger are playing basketball. The penguin dribbles the ball while riding on the car, which is speeding across the court. The tiger tries to leap and",vbench2,Composition,1731
+p01123,train,an apple and a cell phone,vbench,multiple_objects,837
+p01125,train,"A fox and a hedgehog having a picnic in a meadow. The fox is laying out a blanket, while the hedgehog is arranging sandwiches and fruit. The meadow is filled with wildflowers, and butterflies are fluttering around.",tahard,ta_hard,2007
+p01126,train,"A person is drinking tea, then they suddenly start making a phone call.",vbench2,Human_Anatomy|Human_Clothes|Human_Identity|Motion_Order_Understanding,1771
+p01127,train,"In a still frame, gas station",vbench,temporal_flickering,726
+p01128,train,A tranquil tableau of bedroom,vbench,temporal_flickering,23
+p01129,dev,an orange car,vbench,color,424
+p01130,train,A clear glass of flour is gently poured into a glass of water.,vbench2,Material,1268
+p01131,train,A person is eating spaghetti with a fork.,vbench2,Motion_Rationality,1776
+p01134,dev,"Blue Lagoon, zoom out.",vbench2,Camera_Motion,1168
+p01137,train,A man is doing exercises.,vbench2,Human_Anatomy|Human_Clothes,1737
+p01138,train,"A young female warrior, after her family was invaded by a foreign kingdom, set off to find a mysterious treasure to save her family. Her journey was filled with challenges, from cr",vbench2,Complex_Plot,1108
+p01140,train,"A glass of apple juice is slowly poured out in the space station, with the liquid floating and splitting into droplets.",vbench2,Mechanics,1811
+p01141,train,Yoda playing guitar on the stage,vbench,overall_consistency,746
+p01142,train,"Burj Khalifa, tilt down.",vbench2,Camera_Motion,1204
+p01143,train,A tranquil tableau of an exquisite mahogany dining table,vbench,temporal_flickering,701
+p01144,train,"A horse is grazing on grass, then it suddenly starts trotting to the barn.",vbench2,Motion_Order_Understanding,1691
+p01145,train,A man is running.,vbench2,Human_Anatomy|Human_Clothes|Human_Identity,1781
+p01146,train,A shark and a giraffe create a new species.,vbench2,Diversity,1710
+p01147,train,"A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh",vbench,overall_consistency,742
+p01148,train,castle,vbench,scene,834
+p01149,train,"Table, pan right.",vbench2,Camera_Motion,1177
+p01150,train,A timelapse captures the transformation of honey in a pot as the temperature reaches 180°C.,vbench2,Thermotics,1477
+p01152,train,The leaves gradually change from red to green.,vbench2,Dynamic_Attribute,1306
+p01153,train,a book,vbench,object_class,401
+p01154,dev,a sports ball,vbench,object_class,896
+p01155,dev,a knife,vbench,object_class,391
+p01156,train,a black clock,vbench,color,889
+p01157,dev,A timelapse captures the rusting of a metal fence exposed to outdoor elements over several years.,vbench2,Material,1614
+p01158,train,a bowl,vbench,object_class,721
+p01159,train,"A dog is running through the house, then it suddenly jumps onto the couch.",vbench2,Motion_Order_Understanding,1073
+p01160,train,A person is eating hamburger.,vbench2,Motion_Rationality,1776
+p01161,train,"a fork on the right of a knife, front view",vbench,spatial_relationship,885
+p01162,train,a bird and a cat,vbench,multiple_objects,879
+p01163,train,a teddy bear and a frisbee,vbench,multiple_objects,891
+p01165,train,"The camera begins to descend slowly, revealing a weathered canyon, where the cliffs' red and orange rock layers show the marks of years of erosion. The surface of the rocks is etch",vbench2,Complex_Landscape,1610
+p01166,train,"A hand slowly presses a pin into the surface of a stretched plastic sheet, with the tip gradually puncturing the material.",vbench2,Mechanics,1838
+p01167,train,The plastic seat turned into a wooden seat.,vbench2,Dynamic_Attribute,1379
+p01168,train,"A car speeds along a winding mountain road, with trees rapidly passing by.",vbench2,Instance_Preservation,1731
+p01170,train,"A small, elastic rubber bouncy ball is thrown onto the ground, showing its rapid bounce back upon impact.",vbench2,Mechanics,1845
+p01171,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, animated style",vbench,appearance_style,552
+p01172,train,a person washing the dishes,vbench,subject_consistency,766
+p01173,train,"The camera hovers above an active volcano, with smoke billowing from the summit, and flashes of fire erupting periodically. The camera moves closer, revealing the volcanic crater c",vbench2,Complex_Landscape,1607
+p01175,dev,a bottle and a chair,vbench,multiple_objects,474
+p01176,dev,"The camera orbits around. Yosemite, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01177,train,The wooden car body turned into a metal car body.,vbench2,Dynamic_Attribute,1382
+p01178,train,A person is rolling sushi.,vbench2,Motion_Rationality,1769
+p01180,dev,"A person is organizing their closet, then they suddenly start tidying the garage.",vbench2,Human_Anatomy|Human_Clothes|Human_Identity|Motion_Order_Understanding,1020
+p01181,train,"A bird is perched on a fence, then it suddenly flies off to the tree.",vbench2,Motion_Order_Understanding,1666
+p01182,dev,"A piece of yellow chalk is used to write on the smooth, white surface of a porcelain board, showing the interaction between the chalk and the surface.",vbench2,Mechanics,1852
+p01183,train,"A squirrel is on the right of a branch, then the squirrel jumps to the bottom of the branch.",vbench2,Dynamic_Spatial_Relationship,1639
+p01185,train,"In a forgotten, ancient village, all the clocks had stopped, and time seemed to stand still. The villagers were trapped in a perpetual state of idleness. A young clockmaker named D",vbench2,Complex_Plot,1133
+p01186,train,"A timelapse of air being gradually extracted from a sealed, empty rubber balloon.",vbench2,Mechanics,1828
+p01187,dev,"The camera orbits around. Knife, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01188,train,A person is air drumming,vbench,human_action,746
+p01189,train,bakery shop,vbench,scene,849
+p01190,train,Iron Man flying in the sky,vbench,overall_consistency,745
+p01191,train,A person is massaging legs,vbench,human_action,225
+p01192,train,restaurant,vbench,scene,849
+p01193,train,"The camera starts with an aerial view of a tropical island, surrounded by the deep blue sea, with the beach glowing golden in the morning light. As the camera moves downward, the f",vbench2,Complex_Landscape,1604
+p01194,dev,A woman is playing football.,vbench2,Human_Anatomy|Human_Clothes,978
+p01195,train,An orange dog changes from big to small.,vbench2,Instance_Preservation,1430
+p01197,dev,"The camera orbits around. Alhambra, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01198,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, Van Gogh style",vbench,appearance_style,579
+p01200,dev,a black car,vbench,color,424
+p01201,dev,A sleepy pillow with droopy eyes and an energetic alarm clock with springy legs racing through a bedroom. The pillow floats slowly while the alarm clock bounces off the walls.,tahard,ta_hard,2016
+p01202,dev,"Mount Fuji, zoom out.",vbench2,Camera_Motion,1159
+p01204,dev,The camera orbits around in a clockwise direction. Machu Picchu.,vbench2,Camera_Motion,1883
+p01205,train,"A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background",vbench,overall_consistency,760
+p01206,dev,"The camera orbits around. Burj Khalifa, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01208,dev,"A red paintbrush is used to apply paint to the rough surface of a canvas, showing how the bristles interact with the canvas texture.",vbench2,Mechanics,1852
+p01209,train,The glass tabletop changed into a wooden tabletop.,vbench2,Dynamic_Attribute,1376
+p01210,train,An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas,vbench,overall_consistency,558
+p01211,dev,"A dark brown pencil is used to write on the rough, textured surface of an old book page, leaving a mark from the pencil's graphite.",vbench2,Mechanics,1852
+p01212,train,"a shark is swimming in the ocean, animated style",vbench,appearance_style,764
+p01213,train,a car and a train,vbench,multiple_objects,854
+p01214,train,A butterfly's wings change from white to yellow.,vbench2,Dynamic_Attribute,1306
+p01215,train,A tranquil tableau of bar,vbench,temporal_flickering,30
+p01216,train,"A bottle of water is opened in the space station, and the water starts to float out in irregular shapes.",vbench2,Mechanics,1811
+p01217,train,"A timelapse of air being extracted from a sealed, empty vacuum chamber.",vbench2,Mechanics,1828
+p01218,train,"A tranquil tableau of the lampposts were adorned with Art Deco motifs, their geometric shapes and frosted glass creating a sense of vintage glamour",vbench,temporal_flickering,714
+p01219,train,"Forbidden City, zoom in.",vbench2,Camera_Motion,1222
+p01220,train,a donut,vbench,object_class,849
+p01221,train,office,vbench,scene,833
+p01222,train,a white car,vbench,color,425
+p01223,train,"an orange on the bottom of a carrot, front view",vbench,spatial_relationship,923
+p01224,train,alley,vbench,scene,848
+p01225,dev,"A fox and an owl stargazing together on a hilltop. The fox is lying on its back, pointing at the stars, while the owl is perched on a nearby branch, looking through a telescope. The night sky is clear, with countless stars twinkling.",tahard,ta_hard,2011
+p01226,train,"A time-worn gargoyle with cracked stone skin coming to life at midnight, stretching its wings while perched on a gothic cathedral spire. Moonlight glints off its weathered features.",tahard,ta_hard,2028
+p01227,dev,a yellow car,vbench,color,424
+p01228,train,an umbrella and a handbag,vbench,multiple_objects,355
+p01230,train,a black bowl,vbench,color,721
+p01232,train,"The camera begins with a high-altitude view of an ancient stone bridge spanning a clear river. The stones of the bridge are weathered by time, covered with moss. The camera moves d",vbench2,Complex_Landscape,1604
+p01233,train,"A cute happy Corgi playing in park, sunset, pan right",vbench,temporal_style,531
+p01235,train,"Snow White was driven into the forest by the evil queen who was jealous of her beauty. In the forest, Snow White met seven kind dwarfs who offered her shelter. However, the evil qu",vbench2,Complex_Plot,1134
+p01236,train,a microwave and a frisbee,vbench,multiple_objects,891
+p01237,dev,"A cat is on the left of a chair, then the cat runs to the front of the chair.",vbench2,Dynamic_Spatial_Relationship,1633
+p01238,train,"Garden, zoom in.",vbench2,Camera_Motion,1177
+p01239,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, black and white",vbench,appearance_style,558
+p01240,dev,The camera orbits around in a clockwise direction. Burj Khalifa.,vbench2,Camera_Motion,1233
+p01241,train,"A car moving slowly on an empty street, rainy evening",vbench,overall_consistency,749
+p01242,train,"A panda drinking coffee in a cafe in Paris, surrealism style",vbench,appearance_style,620
+p01243,train,highway,vbench,scene,848
+p01246,train,A heavy iron rod is struck with force against a wooden board,vbench2,Material,1376
+p01249,dev,"In a still frame, a stop sign",vbench,temporal_flickering,867
+p01250,train,A super cool giant robot in Cyberpunk Beijing,vbench,overall_consistency,765
+p01251,dev,a bicycle and a car,vbench,multiple_objects,862
+p01252,train,A car changes from white to golden.,vbench2,Dynamic_Attribute,1412
+p01254,train,a teddy bear,vbench,object_class,891
+p01256,train,"A whale with the horns of a ram, the wings of an eagle, and the skin of an octopus, able to both soar through the skies and dive deep into the ocean.",vbench2,Composition,1712
+p01257,train,"Forbidden City, tilt up.",vbench2,Camera_Motion,1222
+p01258,train,"The camera gently descends, passing through the layers of waves, entering the deep underwater world. The surrounding coral reefs are vibrant and colorful, with a variety of tropica",vbench2,Complex_Landscape,1604
+p01259,train,Two people are folding towels together.,vbench2,Human_Interaction,1797
+p01260,train,A person is push up,vbench,human_action,208
+p01261,train,"a carrot on the bottom of a hot dog, front view",vbench,spatial_relationship,927
+p01263,train,"In a hidden tomb, the raiders discovered a shiny copper mirror. Legend claimed this mirror could reveal the future. Raider Xiao Wang was drawn to the mirror and tried to use it to",vbench2,Complex_Plot,1129
+p01264,train,A person is cutting nails,vbench,human_action,232
+p01265,train,"The match began, and Team A quickly organized an attack, breaking through Team B's defense with fast passes. The forward accurately kicked the ball into the goal, taking a 1-0 lead",vbench2,Complex_Plot,1083
+p01266,dev,a bear,vbench,object_class,350
+p01267,train,A candle changes from flickering dimly to steady bright.,vbench2,Dynamic_Attribute,1335
+p01268,dev,A timelapse records the rusting of a metal water pipe left exposed to air and moisture over several years.,vbench2,Material,1614
+p01269,train,"A shark with the legs of a lion, prowling the shores like a beast of land and sea.",vbench2,Composition,1712
+p01270,dev,baseball stadium,vbench,scene,846
+p01272,dev,"a hair drier on the right of a toothbrush, front view",vbench,spatial_relationship,901
+p01273,train,"An astronaut feeding ducks on a sunny afternoon, reflection from the water.",vbench,overall_consistency,745
+p01274,dev,A person is throwing axe,vbench,human_action,236
+p01275,dev,a truck anchored in a tranquil bay,vbench,subject_consistency,288
+p01276,train,A timelapse captures the transformation of water in a pot as the temperature reaches 130°C.,vbench2,Thermotics,1477
+p01277,train,One person brushes the hair of another person.,vbench2,Human_Interaction,1725
+p01278,dev,a red chair,vbench,color,474
+p01279,train,"an orange on the top of a carrot, front view",vbench,spatial_relationship,923
+p01280,train,"a bird on the left of a cat, front view",vbench,spatial_relationship,879
+p01282,train,Aerial panoramic video from a drone of a fantasy land.,vbench,overall_consistency,844
+p01283,dev,ski slope,vbench,scene,856
+p01284,train,"A chameleon with the body of a snake, slithering through bushes while changing colors.",vbench2,Composition,1708
+p01285,dev,"Blue Lagoon, zoom in.",vbench2,Camera_Motion,1168
+p01286,train,"A horse is grazing in the field, then it suddenly starts running across the meadow.",vbench2,Motion_Order_Understanding,1691
+p01287,train,A small burning match was thrown into a pile of dry paper towels.,vbench2,Material,1723
+p01288,train,A boat sailing leisurely along the Seine River with the Eiffel Tower in background,vbench,overall_consistency,552
+p01289,train,"A panda drinking coffee in a cafe in Paris, with an intense shaking effect",vbench,temporal_style,620
+p01290,train,"a bowl on the left of a bottle, front view",vbench,spatial_relationship,886
+p01291,train,a blue bicycle,vbench,color,416
+p01292,dev,One person hands a camera to another person to take a photo.,vbench2,Human_Interaction,1795
+p01293,dev,"The race began, and Team A quickly took the lead, securing the front position. Throughout the race, Team B kept pushing, gradually closing the gap on Team A, especially on the down",vbench2,Complex_Plot,1084
+p01294,dev,"The camera orbits around. Microwaves, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01296,dev,a bicycle gliding through a snowy field,vbench,subject_consistency,275
+p01297,train,A person is riding a bike,vbench,human_action,228
+p01298,train,A tranquil tableau of a bed,vbench,temporal_flickering,23
+p01300,train,A timelapse captures the transformation as potassium hydroxide is added to a glass of litmus paper.,vbench2,Material,1280
+p01301,dev,One person hands a phone to another person.,vbench2,Human_Anatomy|Human_Interaction,1795
+p01302,train,A person is making bed,vbench,human_action,222
+p01303,dev,"The camera orbits around. Washer, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01304,train,"A beautiful coastal beach in spring, waves lapping on sand, in super slow motion",vbench,temporal_style,742
+p01305,train,"A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars",vbench,temporal_flickering,726
+p01306,train,amusement park,vbench,scene,859
+p01310,train,A sponge changes from small to large as it absorbs water.,vbench2,Dynamic_Attribute,1358
+p01311,train,A car changes from red to white.,vbench2,Dynamic_Attribute,1412
+p01312,dev,A wall changes from white to black.,vbench2,Dynamic_Attribute,1318
+p01314,train,a handbag and a tie,vbench,multiple_objects,355
+p01315,train,"An astronaut flying in space, tilt down",vbench,temporal_style,745
+p01316,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Hokusai, in the style of Ukiyo",vbench,appearance_style,552
+p01318,dev,"Gwen Stacy reading a book, in super slow motion",vbench,temporal_style,641
+p01322,dev,a motorcycle,vbench,object_class,862
+p01325,dev,"Gwen Stacy reading a book, zoom in",vbench,temporal_style,641
+p01326,train,"A dog is lying in the sun, then it suddenly jumps up and starts playing with its owner.",vbench2,Motion_Order_Understanding,1065
+p01327,train,A woman is playing ping-pong.,vbench2,Human_Anatomy|Human_Clothes|Human_Identity,1744
+p01331,train,"A frog with the head of a crocodile, the legs of a horse, the body of a panda, and the wings of a dragonfly, adapting to land, water, and air with ease.",vbench2,Composition,1708
+p01332,dev,a refrigerator and skis,vbench,multiple_objects,852
+p01333,train,"In a still frame, the Parthenon's majestic Doric columns stand in serene solitude atop the Acropolis, framed by the tranquil Athenian landscape",vbench,temporal_flickering,53
+p01335,dev,"The camera orbits around. Castle, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01336,dev,"The camera orbits around. Playground, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01337,train,"A person is checking their calendar, then they suddenly get up and start folding clothes.",vbench2,Human_Anatomy|Human_Clothes|Motion_Order_Understanding,222
+p01338,train,The plastic car shell changed into a metal car shell.,vbench2,Dynamic_Attribute,1382
+p01339,train,A person is finger snapping,vbench,human_action,250
+p01341,train,"In a distant mountain range, there was said to be a legendary red dragon. Whenever it hatched a golden egg, the world’s wealth and fortune would explode. A young adventurer named L",vbench2,Complex_Plot|Diversity,1118
+p01342,train,"A beautiful coastal beach in spring, waves lapping on sand, surrealism style",vbench,appearance_style,742
+p01343,train,Balloon full of water exploding in extreme slow motion.,vbench,overall_consistency,724
+p01344,dev,Two people are exchanging keys.,vbench2,Human_Anatomy|Human_Interaction,1795
+p01345,train,"A beautiful coastal beach in spring, waves lapping on sand, pan right",vbench,temporal_style,742
+p01346,train,The plastic toy transformed into a glass toy.,vbench2,Dynamic_Attribute,1383
+p01350,train,a train speeding down the tracks,vbench,subject_consistency,854
+p01352,dev,One person helps another person pick up their books.,vbench2,Human_Interaction,1541
+p01353,train,A person is rock scissors paper,vbench,human_action,250
+p01354,train,A timelapse captures the reaction as concentrated sulfuric acid is poured onto a piece of chewing gum.,vbench2,Material,1287
+p01355,train,A wooden toy is placed gently on the surface of a small bowl of water.,vbench2,Diversity|Mechanics,1817
+p01356,train,a train,vbench,object_class,854
+p01357,train,"A dog is running in the yard, then it suddenly starts sitting under a tree.",vbench2,Motion_Order_Understanding,1073
+p01358,dev,"Mount Fuji, pan right.",vbench2,Camera_Motion,1159
+p01360,dev,a frisbee and skis,vbench,multiple_objects,852
+p01363,train,"A dog is barking at a bird, then it suddenly stops and starts sitting quietly.",vbench2,Motion_Order_Understanding,1076
+p01364,train,"an apple on the top of a sandwich, front view",vbench,spatial_relationship,921
+p01366,train,The plastic door transformed into a wooden door.,vbench2,Dynamic_Attribute,1379
+p01367,train,A koala bear playing piano in the forest.,vbench,overall_consistency,760
+p01368,train,One person helps another person put on a helmet.,vbench2,Human_Anatomy|Human_Interaction,1550
+p01369,train,"Burj Khalifa, pan left.",vbench2,Camera_Motion,1204
+p01370,dev,a yellow vase,vbench,color,492
+p01371,train,"A dog is playing with a stick, then it suddenly starts digging a hole.",vbench2,Motion_Order_Understanding,1065
+p01372,dev,"A pink gel pen is used to write on the rough, textured surface of a piece of fabric, with the pen leaving a mark due to friction.",vbench2,Mechanics,1852
+p01373,train,A person is ice skating,vbench,human_action,243
+p01375,train,"A bird is pecking at the ground, then it suddenly flies into the tree.",vbench2,Motion_Order_Understanding,1666
+p01376,train,An orange cat changes from big to small.,vbench2,Instance_Preservation,1430
+p01380,train,"A rabbit is in front of a table, then the rabbit jumps to the left of the table.",vbench2,Dynamic_Spatial_Relationship,1650
+p01381,dev,"a cow on the right of an elephant, front view",vbench,spatial_relationship,876
+p01382,train,a microwave,vbench,object_class,821
+p01383,dev,forest road,vbench,scene,856
+p01384,train,"In a still frame, courtyard",vbench,temporal_flickering,23
+p01386,train,"Equal amounts of black and white paint are rapidly combined, with the mixture being vigorously stirred until fully blended.",vbench2,Material,1248
+p01387,train,"A bird is in the front a tree, then the bird flies to the above of the tree.",vbench2,Dynamic_Spatial_Relationship,1666
+p01388,train,palace,vbench,scene,834
+p01389,dev,A person is driving car,vbench,human_action,424
+p01390,train,A person is counting money,vbench,human_action,250
+p01391,train,"A container of whipped cream is opened in the space station, and the foam slowly expands in all directions.",vbench2,Mechanics,1811
+p01393,train,a purple bowl,vbench,color,721
+p01394,train,"A timelapse of a foam mattress being compressed under pressure, with the pressure increasing over time.",vbench2,Mechanics,1824
+p01395,train,A person is drinking a smoothie from a glass.,vbench2,Motion_Rationality,1771
+p01396,train,A tranquil tableau of a bowl,vbench,temporal_flickering,30
+p01397,train,A tranquil tableau of house,vbench,temporal_flickering,23
+p01398,train,One person helps another person onto a boat.,vbench2,Human_Interaction,1550
+p01399,train,"A panda drinking coffee in a cafe in Paris, pan left",vbench,temporal_style,620
+p01400,dev,an orange vase,vbench,color,492
+p01401,dev,"In a kingdom surrounded by fire, it was said that every red lotus flower represented a great vow. To protect her kingdom, Princess Lilya decided to pluck a red lotus from the myste",vbench2,Complex_Plot,1119
+p01402,train,"A cute happy Corgi playing in park, sunset, Van Gogh style",vbench,appearance_style,531
+p01403,train,A balloon changes from small to large.,vbench2,Dynamic_Attribute,1419
+p01404,train,"Table, tilt up.",vbench2,Camera_Motion,1238
+p01405,train,"A panda drinking coffee in a cafe in Paris, zoom out",vbench,temporal_style,620
+p01406,dev,a purple chair,vbench,color,474
+p01407,train,A tranquil tableau of a bench,vbench,temporal_flickering,68
+p01408,train,"A panda drinking coffee in a cafe in Paris, tilt up",vbench,temporal_style,620
+p01409,train,kitchen,vbench,scene,821
+p01410,dev,a dog,vbench,object_class,733
+p01411,train,One person passes a drink to another person.,vbench2,Human_Interaction,1775
+p01412,train,A person is shuffling cards,vbench,human_action,250
+p01413,train,"A crystal golem with ancient runes etched across its translucent body, tending to a hidden garden of glowing crystals deep within a mountain cavern. Rainbow light ripples through its form with each movement.",tahard,ta_hard,2028
+p01414,dev,"The camera orbits around. Great Wall of China, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01415,train,"An elephant is on the left of a car, then the elephant walks to the back of the car.",vbench2,Dynamic_Spatial_Relationship,1683
+p01417,train,a sheep bending down to drink water from a river,vbench,subject_consistency,326
+p01418,dev,"A person is preparing a salad, then they suddenly start rearranging the furniture.",vbench2,Human_Anatomy|Human_Clothes|Motion_Order_Understanding,1020
+p01419,train,"The camera moves through a forest shrouded in morning mist, where sunlight filters through the haze, creating soft beams that illuminate the damp tree trunks and low-hanging branch",vbench2,Complex_Landscape,1613
+p01420,train,"The camera begins in a vast grassland, where the lush green grass sways gently in the breeze, the air fresh, and the soft rustling of the leaves fills the space. As the camera move",vbench2,Complex_Landscape,1613
+p01421,train,a train accelerating to gain speed,vbench,subject_consistency,294
+p01422,dev,"a parking meter on the right of a bench, front view",vbench,spatial_relationship,867
+p01425,train,"A bird is on the left a tree, then the bird flies to the above of the tree.",vbench2,Dynamic_Spatial_Relationship,1666
+p01426,train,"a bus on the right of a traffic light, front view",vbench,spatial_relationship,863
+p01427,train,"A bear with the antlers of a deer, roaming the forest with a regal presence.",vbench2,Composition,1687
+p01428,train,Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.,vbench,overall_consistency,724
+p01429,dev,a tennis racket and a bottle,vbench,multiple_objects,896
+p01430,train,iceberg,vbench,scene,834
+p01431,dev,"Mount Fuji, tilt down.",vbench2,Camera_Motion,1159
+p01432,train,"A young girl walked under the moonlight every night, until one night, she met an invisible friend. On the first night, she felt a warm breeze and heard whispers in her ear. On the",vbench2,Complex_Plot,1110
+p01433,train,an airplane accelerating to gain speed,vbench,subject_consistency,280
+p01435,train,"A horse is running in the field, then it suddenly starts walking calmly.",vbench2,Motion_Order_Understanding,1691
+p01436,train,a bicycle accelerating to gain speed,vbench,subject_consistency,294
+p01438,dev,"a baseball bat on the left of a baseball glove, front view",vbench,spatial_relationship,896
+p01439,dev,A person is walking backwards.,vbench2,Motion_Rationality,1780
+p01441,dev,"The camera orbits around. Birdhouse, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01442,train,"A dog is running through the park, then it suddenly starts jumping over logs.",vbench2,Motion_Order_Understanding,1073
+p01443,dev,"A cat is on the table, then the cat runs to the left of the table.",vbench2,Dynamic_Spatial_Relationship,1633
+p01444,train,"A horse is trotting in the field, then it suddenly starts drinking from a stream.",vbench2,Motion_Order_Understanding,1075
+p01445,train,One person points to something while the other looks.,vbench2,Human_Anatomy|Human_Interaction,1566
+p01446,train,"A beautiful coastal beach in spring, waves lapping on sand, tilt up",vbench,temporal_style,742
+p01447,train,A timelapse captures the transformation of camphor as it is exposed to a temperature of 160°C.,vbench2,Thermotics,1477
+p01448,train,A dog changes from small to big.,vbench2,Dynamic_Attribute,1430
+p01449,train,A small burning matchstick was thrown into a pile of dried hay.,vbench2,Material,1723
+p01451,train,"A cat is playing with a toy, then it suddenly jumps onto a shelf.",vbench2,Motion_Order_Understanding,1074
+p01452,train,"A bear and a raccoon baking cookies in a cozy cabin. The bear is mixing the dough, while the raccoon is placing cookie cutters on the dough. The cabin is warm and inviting, with a fire crackling in the fireplace.",tahard,ta_hard,2013
+p01454,train,"A tranquil tableau of a beautiful, handcrafted ceramic bowl",vbench,temporal_flickering,30
+p01455,dev,"A cat is on the table, then the cat runs to the back of the table.",vbench2,Dynamic_Spatial_Relationship,1633
+p01456,train,"A tranquil tableau of in the quaint village square, a traditional wrought-iron streetlamp featured delicate filigree patterns and amber-hued glass panels",vbench,temporal_flickering,714
+p01457,dev,"a tv on the right of a dining table, front view",vbench,spatial_relationship,906
+p01458,train,"Equal amounts of blue and magenta paint are rapidly combined, with the mixture being vigorously stirred until fully blended.",vbench2,Material,1248
+p01459,train,A person is folding clothes.,vbench2,Motion_Rationality,222
+p01460,train,"A cat is curled up on the couch, then it suddenly jumps to the window sill.",vbench2,Motion_Order_Understanding,1074
+p01461,train,"A man lives alone in a remote cabin, day after day, year after year. On the first day, he notices that the view outside his window seems unchanged, with snow still covering the gro",vbench2,Complex_Plot,1133
+p01462,train,"A wise old wizard with a crystal staff, his long beard braided with magical charms, reading ancient scrolls in a tower library filled with floating candles.",tahard,ta_hard,2028
+p01463,train,Two people are wrapping a gift together.,vbench2,Human_Interaction,1784
+p01464,train,a pink clock,vbench,color,889
+p01465,dev,"Blue Lagoon, pan left.",vbench2,Camera_Motion,1168
+p01466,train,"A person is watching a movie, then they suddenly get up and start sweeping the porch.",vbench2,Human_Anatomy|Human_Clothes|Human_Identity|Motion_Order_Understanding,1717
+p01468,train,"A chef with a tall hat and a robot with multiple arms cooking a gourmet meal in a state-of-the-art kitchen. The chef is chopping vegetables with precision, while the robot is simultaneously stirring, frying, and baking. The kitchen is equipped with the latest culinary technology, creating a seamless cooking experience.",tahard,ta_hard,2015
+p01469,dev,a snowboard and a sports ball,vbench,multiple_objects,852
+p01470,train,A panda standing on a surfboard in the ocean in sunset.,vbench,overall_consistency,760
+p01471,train,A person is eating cereal with milk.,vbench2,Motion_Rationality,1771
+p01473,train,"Vase, pan left.",vbench2,Camera_Motion,1195
+p01474,train,"a remote on the right of a clock, front view",vbench,spatial_relationship,889
+p01475,train,Two people are assembling furniture together.,vbench2,Human_Anatomy|Human_Interaction,1579
+p01476,dev,"The camera orbits around. Bike, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01477,train,"A person is reading a magazine, then they suddenly get up and start organizing the closet.",vbench2,Human_Anatomy|Human_Clothes|Human_Identity|Motion_Order_Understanding,222
+p01478,train,"There was an ancient maze that was said to grant endless wealth to whoever could successfully escape it. To uncover the mystery of his missing father, a young adventurer named Alle",vbench2,Complex_Plot,1118
+p01479,dev,"The Violet Flower glowed mysteriously at night, and it was said to heal any ailment. To save his ill mother, a young man named Oscar decided to find this magical flower. He crossed",vbench2,Complex_Plot,1119
+p01482,dev,"The camera orbits around. Neuschwanstein Castle, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01483,train,A person is painting.,vbench2,Motion_Rationality,1784
+p01484,train,A computer screen changes from off to bright.,vbench2,Dynamic_Attribute,1335
+p01485,train,A person is knitting,vbench,human_action,222
+p01486,train,"an apple on the bottom of a sandwich, front view",vbench,spatial_relationship,921
+p01489,dev,"The camera orbits around. Fortre, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01491,train,"A squirrel is on the left of a rock, then the squirrel jumps to the top of the rock.",vbench2,Dynamic_Spatial_Relationship,1639
+p01492,train,"Machu Picchu, pan left.",vbench2,Camera_Motion,1213
+p01493,train,"A cat is sitting on a chair, then it suddenly starts playing with a feather toy.",vbench2,Motion_Order_Understanding,1074
+p01494,train,Two people are unloading groceries from a car.,vbench2,Human_Interaction,1583
+p01495,dev,"The camera orbits around. Pyramids of Giza, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01496,train,A car changes from golden to white.,vbench2,Dynamic_Attribute,1412
+p01497,train,"Equal amounts of white and black paint are rapidly combined, with the mixture being vigorously stirred until fully blended.",vbench2,Material,1248
+p01498,dev,"A robot with glowing blue eyes and a human with a cybernetic arm playing basketball in a futuristic gym. The robot is dribbling the ball with precision, while the human is preparing to block the shot. The gym is equipped with advanced technology and holographic scoreboards.",tahard,ta_hard,2024
+p01499,train,A star changes from faint to bright.,vbench2,Dynamic_Attribute,1335
+p01500,train,"A beautiful coastal beach in spring, waves lapping on sand, pixel art",vbench,appearance_style,742
+p01501,train,"A cat is watching outside, then it suddenly starts stretching.",vbench2,Motion_Order_Understanding,1074
+p01502,train,A panda playing on a swing set,vbench,overall_consistency,760
+p01503,train,"A cute happy Corgi playing in park, sunset, in cyberpunk style",vbench,appearance_style,531
+p01504,train,The glass door turned into a metal door.,vbench2,Dynamic_Attribute,1379
+p01505,train,A tiger changes from big to small.,vbench2,Dynamic_Attribute,1434
+p01506,train,indoor museum,vbench,scene,841
+p01507,train,A man is dancing.,vbench2,Human_Anatomy|Human_Clothes|Human_Identity,1737
+p01508,train,A woman is doing yoga.,vbench2,Human_Anatomy|Human_Clothes,1737
+p01509,dev,A wall changes from black to white.,vbench2,Dynamic_Attribute,1318
+p01510,dev,"The camera orbits around. Train, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01511,train,"The camera movement is static. Laptop, static shot, the camera is fixed.",vbench2,Camera_Motion,1223
+p01512,train,"Garden, zoom out.",vbench2,Camera_Motion,1177
+p01513,train,"In a still frame, a vintage gas lantern, adorned with intricate details, gracing a historic cobblestone square",vbench,temporal_flickering,714
+p01514,train,"A panda drinking coffee in a cafe in Paris, Van Gogh style",vbench,appearance_style,620
+p01516,train,indoor gymnasium,vbench,scene,841
+p01518,train,A tranquil tableau of an apple,vbench,temporal_flickering,683
+p01520,train,"A dog is resting on the bed, then it suddenly gets up and starts playing with a toy.",vbench2,Motion_Order_Understanding,1065
+p01521,train,a spoon and a laptop,vbench,multiple_objects,373
+p01522,train,"a bottle on the left of a wine glass, front view",vbench,spatial_relationship,886
+p01523,dev,"The camera orbits around. Astronomic Map, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01524,train,A tranquil tableau of a wooden bench in the park,vbench,temporal_flickering,68
+p01525,dev,"The camera starts at a rusted metal gate, with peeling paint revealing dull metal underneath, giving a sense of decay and unease. The gate creaks open, and the camera moves into a",vbench2,Complex_Landscape,1614
+p01526,train,A person is folding the blanket.,vbench2,Motion_Rationality,1797
+p01527,train,"A horse is walking slowly, then it suddenly starts trotting.",vbench2,Motion_Order_Understanding,1691
+p01528,train,A clear glass of oil is gently poured into a glass of milk.,vbench2,Material,1759
+p01530,train,"Gwen Stacy reading a book by Hokusai, in the style of Ukiyo",vbench,appearance_style,546
+p01531,train,"A tomb raiding team entered an ancient tomb sealed by mysterious magic, hoping to uncover the inheritance of the underworld king. Once inside, the team discovered a tombstone with",vbench2,Complex_Plot,1129
+p01533,dev,"The camera orbits around. Serengeti, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01535,train,A person is spreading butter on toast.,vbench2,Motion_Rationality,1765
+p01536,train,a cow bending down to drink water from a river,vbench,subject_consistency,326
+p01538,train,"An elephant is in front of a car, then the elephant walks to the back of the car.",vbench2,Dynamic_Spatial_Relationship,1683
+p01539,train,A tranquil tableau of a chair,vbench,temporal_flickering,701
+p01542,train,"An astronaut flying in space, racking focus",vbench,temporal_style,745
+p01543,train,"A bird is above a tree, then the bird flies to the front of the tree.",vbench2,Dynamic_Spatial_Relationship,1666
+p01544,train,An astronaut flying in space.,vbench,overall_consistency,745
+p01545,train,"A kangaroo is in front of a basket, then the kangaroo jumps to the right of the basket.",vbench2,Dynamic_Spatial_Relationship,1650
+p01546,dev,"Optimus Prime's mechanical parts reassemble, transforming from a giant robot into a mighty truck. During the transformation process, Optimus Prime emits a dazzling light. The entire video is a time-lapse, fully showcasing the transformation process.",tahard,ta_hard,2024
+p01547,train,"A tranquil tableau of in the corner of the minimalist tea room, a bonsai tree added a touch of nature's beauty to the otherwise simple and elegant space",vbench,temporal_flickering,66
+p01548,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in super slow motion",vbench,temporal_style,579
+p01550,dev,"The camera orbits around. Clock, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01552,train,"The camera begins with an aerial view of a modern city's skyline bathed in the golden light of sunset. The distant skyscrapers are outlined by the warm glow of the sun, with their",vbench2,Complex_Landscape,1604
+p01553,train,"a train on the right of a boat, front view",vbench,spatial_relationship,909
+p01554,train,A timelapse captures the gradual transformation of butter as the temperature rises to 25°C.,vbench2,Thermotics,1477
+p01555,train,a dog playing in park,vbench,subject_consistency,531
+p01556,train,"A panda drinking coffee in a cafe in Paris, featuring a steady and smooth perspective",vbench,temporal_style,620
+p01560,train,street,vbench,scene,848
+p01562,train,"A red ball and a blue ball fall from a height, hits the ground, and bounces back up.",vbench2,Instance_Preservation,1409
+p01563,dev,"a sink on the right of a toilet, front view",vbench,spatial_relationship,901
+p01564,train,"The camera movement is static. Watch, static shot, the camera is fixed.",vbench2,Camera_Motion,1223
+p01565,dev,A person is picking up the phone.,vbench2,Motion_Rationality,1795
+p01566,train,golden fish swimming in the ocean.,vbench,overall_consistency,769
+p01567,train,"In an ancient tomb deep in the mountains, the tomb raiders discovered a massive dragon bone structure. Legend had it that the skeleton belonged to an ancient dragon god. Captain Ol",vbench2,Complex_Plot,1129
+p01569,dev,a black vase,vbench,color,492
+p01570,dev,"A cat is under the table, then the cat runs onto the table.",vbench2,Dynamic_Spatial_Relationship,1633
+p01571,train,beach,vbench,scene,855
+p01573,train,A clear glass of orange juice is gently poured into a glass of water.,vbench2,Material,1268
+p01574,train,"A dog is sleeping on the couch, then it suddenly gets up and starts wagging its tail.",vbench2,Motion_Order_Understanding,1065
+p01575,dev,"happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background",vbench,overall_consistency,733
+p01577,train,"A jellyfish floating through the ocean, with bioluminescent tentacles",vbench,overall_consistency,769
+p01578,train,"A washing machine with roller derby gear and a dryer with a disco ball having a dance-off in a laundromat. The washing machine spins and shakes with attitude, while the dryer throws out warm air and disco lights. Soap bubbles and lint float through the air like party confetti.",tahard,ta_hard,2014
+p01579,train,"A giraffe with the body of a whale, the legs of a kangaroo, and the tail of a flamingo, allowing it to leap from one ocean wave to another with remarkable grace.",vbench2,Composition,1710
+p01580,train,"An orange cat is in front of a tree, then the cat moves to the left of the tree.",vbench2,Instance_Preservation,1433
+p01582,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, oil painting",vbench,appearance_style,552
+p01584,train,A person is closing the window.,vbench2,Motion_Rationality,1802
+p01585,dev,"The camera orbits around. Telephone, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01586,train,"Gwen Stacy reading a book, watercolor painting",vbench,appearance_style,546
+p01589,train,A timelapse captures the gradual transformation of a piece of coconut oil as the temperature rises to 30°C.,vbench2,Thermotics,1477
+p01590,train,a boat,vbench,object_class,855
+p01591,dev,"A person is cooking dinner, then they suddenly start organizing the pantry.",vbench2,Human_Anatomy|Human_Clothes|Motion_Order_Understanding,1020
+p01592,train,"The camera begins as the first rays of the morning sun rise from behind the mountain ridge, casting a warm glow over the snow-covered peaks. The camera slowly moves forward, reveal",vbench2,Complex_Landscape,1604
+p01593,train,"A cute happy Corgi playing in park, sunset, in super slow motion",vbench,temporal_style,531
+p01594,train,A man is walking.,vbench2,Human_Anatomy|Human_Clothes,1781
+p01595,dev,"Alhambra, tilt up.",vbench2,Camera_Motion,1186
+p01596,dev,a parking meter,vbench,object_class,867
+p01597,train,A car changes from black to white.,vbench2,Dynamic_Attribute,1412
+p01599,train,cafeteria,vbench,scene,849
+p01600,train,A flower changes from orange to purple.,vbench2,Dynamic_Attribute,1306
+p01601,train,The plastic bottle cap turned into a glass bottle cap.,vbench2,Dynamic_Attribute,1383
+p01602,train,"a cat on the right of a dog, front view",vbench,spatial_relationship,879
+p01603,dev,"A fox is in front of a shoe, then the fox runs to the left of the shoe.",vbench2,Dynamic_Spatial_Relationship,1646
+p01606,train,"The camera begins with an aerial view of a deep canyon, its massive rock layers stacked along the sides in hues ranging from deep red to pale yellow, creating a strikingly layered",vbench2,Complex_Landscape,1610
+p01607,dev,a stop sign,vbench,object_class,867
+p01608,dev,a pink vase,vbench,color,492
+p01609,dev,"Gwen Stacy reading a book, pan right",vbench,temporal_style,641
+p01610,train,"A young prince named Alvin became lost in the forest and accidentally discovered a shiny green gemstone. The gemstone radiated powerful natural energy, capable of communicating wit",vbench2,Complex_Plot,1135
+p01611,train,A timelapse captures the transformation of a river as the temperature significantly drops below 0°C.,vbench2,Thermotics,1466
+p01612,train,a green clock,vbench,color,889
+p01613,train,"A cat is hiding under the table, then it suddenly jumps out and starts scratching the furniture.",vbench2,Motion_Order_Understanding,1074
+p01614,train,A person is clapping,vbench,human_action,248
+p01615,dev,"The camera orbits around. Earphone, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01616,train,desert,vbench,scene,844
+p01617,train,"a shark is swimming in the ocean, zoom in",vbench,temporal_style,764
+p01620,train,"a toothbrush on the left of a sink, front view",vbench,spatial_relationship,900
+p01622,train,A person is playing flute,vbench,human_action,188
+p01623,train,The glass window turned into a metal window.,vbench2,Dynamic_Attribute,1376
+p01624,dev,a baseball bat,vbench,object_class,896
+p01625,train,"A penguin and a seal ice skating on a frozen lake. The penguin is gracefully gliding on the ice, while the seal is spinning in circles. The lake is surrounded by snow-covered trees, and the sky is clear and blue.",tahard,ta_hard,2007
+p01626,train,"A bird is resting in its nest, then it suddenly flies out to catch insects.",vbench2,Motion_Order_Understanding,1666
+p01628,train,One person helps another person put on a glove.,vbench2,Human_Interaction,1572
+p01629,train,A person is spreading jam on bread.,vbench2,Motion_Rationality,1765
+p01630,dev,Two pandas discussing an academic paper.,vbench,overall_consistency,752
+p01631,train,a horse bending down to drink water from a river,vbench,subject_consistency,326
+p01633,dev,A person is walking down the street.,vbench2,Motion_Rationality,1780
+p01634,dev,"The camera orbits around. Mount Roraima, the camera circles around.",vbench2,Multi-View_Consistency,1883
+p01635,train,"A dog is lying on the couch, then it suddenly jumps off and starts running around.",vbench2,Motion_Order_Understanding,1073
+p01636,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pan right",vbench,temporal_style,558
+p01638,train,"The camera movement is static. Machu Picchu, static shot, the camera is fixed.",vbench2,Camera_Motion,1223
+p01639,train,A person is breaking a chocolate bar into pieces.,vbench2,Motion_Rationality,1770
+p01640,train,A ball rolls off the table.,vbench2,Instance_Preservation,1404
+p01641,train,A dog changes from big to small.,vbench2,Dynamic_Attribute,1430
+p01642,train,a car stuck in traffic during rush hour,vbench,subject_consistency,282
+p01643,train,A room changes from bright to dark.,vbench2,Dynamic_Attribute,1335
+p01645,dev,"The race began, and the runners quickly started. The Team A runner took the lead initially due to a powerful start. However, the Team B runner did not rush to chase but instead ste",vbench2,Complex_Plot,1084
+p01646,train,farm,vbench,scene,836
+p01647,train,A person is playing controller,vbench,human_action,250
+p01648,dev,a purple car,vbench,color,424
+p01649,train,"The camera begins under the bright moonlight, casting its glow over a silent swamp, surrounded by darkness, with only the moonlight and the occasional flicker of fireflies illumina",vbench2,Complex_Landscape,1613
+p01650,train,An ant gradually grow big.,vbench2,Dynamic_Attribute,1434
+p01651,train,a white clock,vbench,color,889
+p01654,train,A clear glass of salt is gently poured into a glass of water.,vbench2,Material,1268
+p01655,dev,"The camera orbits around. Statue of Liberty, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01656,train,A tranquil tableau of palace,vbench,temporal_flickering,23
+p01658,train,"A bird is on the left of a apple, then the bird flies to the front of the apple.",vbench2,Dynamic_Spatial_Relationship,1655
+p01661,train,One person hands another person a glass of juice.,vbench2,Human_Anatomy|Human_Interaction,1775
+p01662,train,"A dog is on the left of a table, then the dog runs to the front of the table.",vbench2,Dynamic_Spatial_Relationship,1620
+p01663,train,A person is closing the curtains.,vbench2,Motion_Rationality,1802
+p01664,train,A river changes from brown to blue.,vbench2,Dynamic_Attribute,1315
+p01665,dev,"A person is eating a sandwich, then they suddenly start organizing the bookshelf.",vbench2,Human_Anatomy|Human_Clothes|Human_Identity|Motion_Order_Understanding,1020
+p01666,train,"A dog is on the left of an apple, then the dog runs to the front of the apple.",vbench2,Diversity,1655
+p01667,dev,"The camera orbits around. Fern, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01668,train,"A panda drinking coffee in a cafe in Paris, watercolor painting",vbench,appearance_style,620
+p01669,train,"A toothbrush and toothpaste singing a duet, their melodies harmonizing perfectly.",vbench2,Composition,1725
+p01670,train,people are playing ping-pong.,vbench2,Human_Anatomy,1744
+p01671,train,"An astronaut flying in space, in cyberpunk style",vbench,appearance_style,745
+p01673,train,"An ancient tomb, long abandoned, became a target for tomb raiders. The tomb was known as the Yin Tomb and was considered a legend. Li Yang, a member of the raiding team, led the gr",vbench2,Complex_Plot,1129
+p01674,train,"A person is folding towels, then they suddenly start painting a picture.",vbench2,Human_Anatomy|Human_Clothes|Motion_Order_Understanding,1797
+p01676,train,One person passes a ball to another.,vbench2,Human_Anatomy|Human_Interaction,1742
+p01677,train,A person is slicing a peach in half.,vbench2,Motion_Rationality,1773
+p01678,dev,a blue car,vbench,color,424
+p01679,train,"A knight with a pumpkin head and a ghost with a sheet and googly eyes having a sword fight in a haunted castle. The knight is wielding a glowing sword, while the ghost is phasing through walls and dodging attacks. The castle is eerie, with cobwebs and flickering candles.",tahard,ta_hard,2028
+p01681,train,a vase and scissors,vbench,multiple_objects,890
+p01682,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, racking focus",vbench,temporal_style,579
+p01683,train,The wooden staircase turned into a metal staircase.,vbench2,Dynamic_Attribute,1376
+p01684,train,A person is playing chess,vbench,human_action,250
+p01685,train,"Garden, pan left.",vbench2,Camera_Motion,1177
+p01686,train,"A talking apple with eyes and a mouth, and a singing banana with legs hosting a talent show in a vibrant theater. The apple is the judge, giving feedback to contestants, while the banana is the host, entertaining the audience with jokes and songs. The theater is filled with colorful lights and excited spectators.",tahard,ta_hard,2014
+p01687,train,"a shark is swimming in the ocean, pan left",vbench,temporal_style,764
+p01688,train,A cat wearing sunglasses at a pool,vbench,overall_consistency,751
+p01689,train,"A sloth, a paintbrush, a cup of tea, and a kite are participating in a race. The sloth is moving incredibly slowly while holding the paintbrush, but the cup of tea spills over, cau",vbench2,Composition,1734
+p01690,dev,"The camera orbits around. Armor, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01694,dev,The Ugly Duckling was born into a warm family of ducks but was rejected by the other ducklings because of its different appearance. It decided to leave home and set off on a journe,vbench2,Complex_Plot,1105
+p01696,train,indoor library,vbench,scene,841
+p01697,train,people are walking.,vbench2,Human_Anatomy,1739
+p01699,train,A sturdy steel key is dropped onto a hard marble floor,vbench2,Material,1845
+p01700,train,a yellow bowl,vbench,color,721
+p01701,dev,football field,vbench,scene,846
+p01702,dev,"The camera orbits around. Shield, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01703,train,"A vacuum cleaner jumping over hurdles, its hose flapping in the wind.",vbench2,Composition,1717
+p01705,train,A cloud changes from small to large as it gathers moisture.,vbench2,Dynamic_Attribute,1358
+p01706,train,Two people are carrying a large painting together.,vbench2,Human_Interaction,1583
+p01707,dev,The camera orbits around in a clockwise direction. Garden.,vbench2,Camera_Motion,1233
+p01708,dev,a toilet and a hair drier,vbench,multiple_objects,901
+p01710,train,a zebra bending down to drink water from a river,vbench,subject_consistency,326
+p01711,dev,"The camera orbits around. Acropolis, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01712,train,an orange suitcase,vbench,color,452
+p01714,train,Two brown bears are running.,vbench2,Instance_Preservation,1687
+p01715,train,One person picks up a fallen hat and hands it to another.,vbench2,Human_Anatomy|Human_Interaction,1550
+p01716,train,A person is marching,vbench,human_action,248
+p01717,train,"An astronaut flying in space, surrealism style",vbench,appearance_style,745
+p01719,dev,"The camera orbits around. Taj Mahal, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01721,train,"A dog is digging a hole in the yard, then it suddenly stops and starts licking its paw.",vbench2,Motion_Order_Understanding,1073
+p01722,train,A orange fox is running.,vbench2,Instance_Preservation,1398
+p01723,dev,A tranquil tableau of cliff,vbench,temporal_flickering,856
+p01724,train,food court,vbench,scene,849
+p01725,train,One person places a blanket over another person.,vbench2,Human_Anatomy|Human_Interaction,1550
+p01726,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pixel art",vbench,appearance_style,552
+p01727,train,Turtle swimming in ocean.,vbench,overall_consistency,769
+p01728,train,"In the deepest recesses of a forgotten tomb, there was said to be a path leading to the realm of the dead. Tomb raider Huang Fei and his team entered the tomb, hoping to find treas",vbench2,Complex_Plot,1129
+p01729,train,One person gently lifts another person’s chin.,vbench2,Human_Interaction,1725
+p01731,train,Two people are practicing martial arts together.,vbench2,Human_Interaction,1561
+p01732,train,A beige tiger is running.,vbench2,Instance_Preservation,1434
+p01733,train,"The camera begins on a dimly lit street, where streetlights cast a faint glow, and the air is filled with the muted reflections of neon lights. The buildings on either side are wea",vbench2,Complex_Landscape,1613
+p01734,train,"A panda and a penguin having a tea party in a bamboo forest. The panda is pouring tea into a cup, while the penguin is holding a tiny teacup. The forest is serene, with bamboo leaves rustling in the breeze.",tahard,ta_hard,2007
+p01735,train,"A lightning striking atop of eiffel tower, dark clouds in the sky",vbench,overall_consistency,767
+p01736,dev,The camera orbits around in a clockwise direction. Laptop.,vbench2,Camera_Motion,1233
+p01738,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, oil painting",vbench,appearance_style,579
+p01739,train,A man is riding a bike.,vbench2,Human_Anatomy|Human_Clothes,1781
+p01741,train,"A pencil slowly presses into the surface of a tightly stretched rubber sheet, with the tip gradually tearing through the material.",vbench2,Mechanics,1838
+p01742,train,"A wolf with the body of a horse, galloping across a vast plains with wild abandon.",vbench2,Composition,1691
+p01743,train,"A rabbit, a frisbee, a chair, and a broomstick are playing tag. The rabbit throws the frisbee to the chair, but the broomstick catches it mid-air with its bristles, causing the fri",vbench2,Composition,1731
+p01744,train,A timelapse captures the transformation of fruit juice in a saucepan as the temperature reaches 130°C.,vbench2,Thermotics,1477
+p01745,train,"A white sheep is in front of a tree, then the sheep moves to the left of the tree.",vbench2,Instance_Preservation,1435
+p01746,train,"A squirrel is behind a rock, then the squirrel jumps to the left of the rock.",vbench2,Dynamic_Spatial_Relationship,1639
+p01747,train,Two people are assembling a tent together.,vbench2,Human_Interaction,1571
+p01749,dev,a zebra taking a peaceful walk,vbench,subject_consistency,327
+p01750,dev,"The camera orbits around. Chess Piece Queen, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01752,train,A smiling cloud with big round eyes and a grumpy rain drop with tiny feet splashing in puddles. The cloud floats lazily overhead while the raindrop jumps from puddle to puddle on the sidewalk.,tahard,ta_hard,2007
+p01753,train,a yellow bicycle,vbench,color,416
+p01754,train,A man and a woman is doing yoga.,vbench2,Instance_Preservation,1737
+p01755,train,"The camera starts with an aerial view of snow-capped mountains, their peaks gleaming with silver under the sunlight. Glaciers wind their way through the landscape, extending into t",vbench2,Complex_Landscape,1604
+p01756,train,a green bicycle,vbench,color,416
+p01757,train,"A rabbit with the horns of a goat, hopping energetically while butting through obstacles.",vbench2,Composition,1708
+p01758,train,"A panda drinking coffee in a cafe in Paris, pan right",vbench,temporal_style,620
+p01759,train,"A panda drinking coffee in a cafe in Paris, pixel art",vbench,appearance_style,620
+p01761,train,"A cute happy Corgi playing in park, sunset, tilt up",vbench,temporal_style,531
+p01762,train,a purple clock,vbench,color,889
+p01763,dev,"The camera orbits around. Helmet, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01764,dev,"The camera orbits around. Trex, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01765,train,A timelapse captures the transformation as a drop of hydrochloric acid is added to a blue litmus solution.,vbench2,Material,1280
+p01766,train,"A hammer and a nail playing tag, chasing each other around in a game of high-speed pursuit.",vbench2,Composition,1742
+p01769,train,A woman is cutting her hair.,vbench2,Motion_Rationality,1782
+p01772,train,a banana,vbench,object_class,923
+p01773,train,"An elephant is on the right of a car, then the elephant walks to the back of the car.",vbench2,Dynamic_Spatial_Relationship,1683
+p01774,dev,"The camera orbits around. Bread Roll, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01775,train,"A container of cream is opened in the space station, with the liquid slowly dispersing into the air.",vbench2,Mechanics,1811
+p01776,dev,"The race began, and the first runner quickly took off, leading the other teams. Everyone was focused on his performance. During the baton handoff of the first runner, Team A made a",vbench2,Complex_Plot,1084
+p01777,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, in cyberpunk style",vbench,appearance_style,579
+p01778,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, zoom out",vbench,temporal_style,552
+p01779,train,"A horse is walking along a trail, then it suddenly starts galloping.",vbench2,Motion_Order_Understanding,1691
+p01780,train,"Vampire makeup face of beautiful girl, red contact lenses.",vbench,overall_consistency,725
+p01781,train,science museum,vbench,scene,841
+p01782,dev,"a stop sign on the left of a parking meter, front view",vbench,spatial_relationship,867
+p01783,train,a pink bowl,vbench,color,721
+p01784,train,"A beautiful coastal beach in spring, waves lapping on sand, with an intense shaking effect",vbench,temporal_style,742
+p01785,train,A person is stretching leg,vbench,human_action,225
+p01786,train,A man is cutting objects.,vbench2,Human_Anatomy|Human_Clothes|Human_Identity,1782
+p01788,train,indoor swimming pool,vbench,scene,859
+p01789,train,"A zebra with the horns of a ram, charging through the savannah with both grace and power.",vbench2,Composition,1691
+p01790,train,"A little girl received a mysterious gift—the ancient time key. She used the key to open a sealed door and entered the time house. On the first day, she found a room filled with boo",vbench2,Complex_Plot,1110
+p01791,train,Two people are fixing a broken chair together.,vbench2,Human_Interaction,1579
+p01792,dev,"The scene opens in the vast desert, with the camera angled low over the sand, fine grains drifting in the gentle breeze, the undulating dunes in the distance bathed in a faint oran",vbench2,Complex_Landscape,1612
+p01793,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, zoom in",vbench,temporal_style,558
+p01794,train,Two people are pushing a cart of laundry.,vbench2,Human_Interaction,1563
+p01796,train,jail cell,vbench,scene,837
+p01797,dev,"The camera orbits around. Mount Sinai, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01798,dev,"The camera orbits around. Jar, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01799,train,"A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground",vbench,overall_consistency,742
+p01800,train,A tall salt shaker with a top hat and a small pepper shaker with glasses dancing on a dinner table. The salt shaker leads while the pepper shaker follows with tiny hops.,tahard,ta_hard,2015
+p01801,train,Two people are playing catch.,vbench2,Human_Anatomy|Human_Interaction,1742
+p01802,train,A person is pouring olive oil into a frying pan.,vbench2,Motion_Rationality,1759
+p01803,train,A person is squat,vbench,human_action,233
+p01804,dev,A person is digging,vbench,human_action,252
+p01805,train,"a shark is swimming in the ocean, tilt down",vbench,temporal_style,764
+p01806,train,"A dog is on the left of a sofa, then the dog runs to the front of the sofa.",vbench2,Dynamic_Spatial_Relationship,1620
+p01807,train,Two people are drawing a picture together.,vbench2,Human_Interaction,1571
+p01808,train,Two people are walking side by side down a hallway.,vbench2,Human_Interaction,1739
+p01809,dev,A person is shooting goal (soccer),vbench,human_action,236
+p01810,train,"Watch, tilt up.",vbench2,Camera_Motion,1238
+p01811,dev,"A tranquil tableau of in the heart of the Utah desert, a massive sandstone arch spanned the horizon",vbench,temporal_flickering,63
+p01812,train,"A beautiful coastal beach in spring, waves lapping on sand, black and white",vbench,appearance_style,742
+p01813,dev,a bear catching a salmon in its powerful jaws,vbench,subject_consistency,350
+p01814,train,One person holds a flashlight while another searches for something.,vbench2,Human_Interaction,1550
+p01815,train,a cake and a vase,vbench,multiple_objects,890
+p01816,train,"Vase, tilt down.",vbench2,Camera_Motion,1195
+p01817,train,"A dog is playing in the yard, then it suddenly starts laying on the porch.",vbench2,Motion_Order_Understanding,1065
+p01818,train,"A cute happy Corgi playing in park, sunset, zoom in",vbench,temporal_style,531
+p01819,train,phone booth,vbench,scene,837
+p01820,dev,an elephant,vbench,object_class,876
+p01824,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, watercolor painting",vbench,appearance_style,552
+p01825,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, black and white",vbench,appearance_style,552
+p01826,train,A timelapse captures the reaction as concentrated sulfuric acid is poured onto a glass bottle.,vbench2,Material,1287
+p01827,dev,a green car,vbench,color,424
+p01828,train,art gallery,vbench,scene,841
+p01829,train,Two white sheep are walking.,vbench2,Instance_Preservation,1401
+p01830,dev,A person is sticking tongue out,vbench,human_action,249
+p01831,train,a cake,vbench,object_class,849
+p01832,dev,"The camera orbits around. Raspberry Pi Pico, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01833,dev,"Gwen Stacy reading a book, with an intense shaking effect",vbench,temporal_style,641
+p01834,train,"a giraffe on the right of a bird, front view",vbench,spatial_relationship,879
+p01835,train,"A spider with a square face and a green-furred puppy having a playful fight in a whimsical garden. The spider is using its web to swing around, while the puppy is playfully nipping at the spider's legs. The garden is filled with oversized flowers and colorful mushrooms.",tahard,ta_hard,2007
+p01836,train,Two people are putting up Christmas decorations together.,vbench2,Human_Interaction,1784
+p01837,dev,Hyper-realistic spaceship landing on Mars,vbench,overall_consistency,770
+p01839,train,a fantasy landscape,vbench,overall_consistency,844
+p01840,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, Van Gogh style",vbench,appearance_style,558
+p01842,train,"A beige tiger is in front of a tree, then the tiger moves to the left of the tree.",vbench2,Instance_Preservation,1434
+p01843,train,"A sharp object slowly presses into the surface of a soft balloon, with the point gradually sinking into the rubber.",vbench2,Mechanics,1838
+p01844,train,a red clock,vbench,color,889
+p01845,dev,"The camera orbits around. Keyboard, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01846,train,a bicycle leaning against a tree,vbench,subject_consistency,416
+p01848,dev,"a toilet, frozen in time",vbench,temporal_flickering,901
+p01850,train,laboratory,vbench,scene,833
+p01851,train,A person is playing piano,vbench,human_action,188
+p01852,dev,a person and a sink,vbench,multiple_objects,842
+p01854,train,A person is ironing,vbench,human_action,222
+p01855,train,"A broomstick breakdancing, twisting and spinning on the floor with flair.",vbench2,Composition,1717
+p01856,train,"a snowboard on the top of a kite, front view",vbench,spatial_relationship,937
+p01857,train,One person hands a pen to another person.,vbench2,Human_Anatomy|Human_Interaction,1566
+p01858,dev,A person is archery,vbench,human_action,236
+p01859,train,The plastic utensils turned into glass utensils.,vbench2,Dynamic_Attribute,1383
+p01860,train,"A piece of lead is ignited, emitting a vivid and unique flame as it burns steadily.",vbench2,Material,1256
+p01862,dev,a tennis racket,vbench,object_class,896
+p01864,train,"A panda drinking coffee in a cafe in Paris, in super slow motion",vbench,temporal_style,620
+p01866,dev,"Alhambra, zoom in.",vbench2,Camera_Motion,1186
+p01867,train,"In a still frame, the ornate Victorian streetlamp stands solemnly, adorned with intricate ironwork and stained glass panels",vbench,temporal_flickering,714
+p01868,train,"A mysterious plague doctor with clockwork enhancements peeking through their dark robes, mixing herbal remedies in a medieval apothecary shop as green smoke swirls from bubbling vials.",tahard,ta_hard,2028
+p01869,train,One person helps another into a car.,vbench2,Human_Anatomy|Human_Interaction,1583
+p01871,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, pan right",vbench,temporal_style,579
+p01874,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, tilt down",vbench,temporal_style,558
+p01875,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, featuring a steady and smooth perspective",vbench,temporal_style,579
+p01876,train,"A brave young girl set off on an adventure to find five ancient artifacts. First, she crossed the desolate desert, finding the endless water bottle with the help of a giant desert",vbench2,Complex_Plot,1108
+p01877,train,Two people are carrying a heavy box up the stairs.,vbench2,Human_Interaction,1583
+p01878,train,"A bird is on the right a tree, then the bird flies to the above of the tree.",vbench2,Dynamic_Spatial_Relationship,1666
+p01879,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, with an intense shaking effect",vbench,temporal_style,579
+p01880,dev,a person walking in the snowstorm,vbench,subject_consistency,696
+p01882,train,"Gwen Stacy reading a book, oil painting",vbench,appearance_style,546
+p01884,dev,"Gwen Stacy reading a book, pan left",vbench,temporal_style,641
+p01885,train,"A piece of aluminum is ignited, emitting a vivid and unique flame as it burns steadily.",vbench2,Material,1256
+p01887,train,"A timelapse of a wet cloth being compressed by hand, with the pressure gradually increasing.",vbench2,Mechanics,1824
+p01888,dev,a blue vase,vbench,color,492
+p01889,dev,"The camera orbits around. Snowman, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01891,train,"A cute happy Corgi playing in park, sunset, pan left",vbench,temporal_style,531
+p01892,train,Two people are placing food on a barbecue grill together.,vbench2,Human_Interaction,1784
+p01893,train,"A timelapse of a juice box being squeezed by hand, with pressure intensifying over time.",vbench2,Mechanics,1824
+p01894,dev,"The camera orbits around. Bowl, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01895,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, animated style",vbench,appearance_style,558
+p01896,train,A brown bear is running.,vbench2,Instance_Preservation,1687
+p01897,train,"A tranquil tableau of the Parthenon stands resolute in its classical elegance, a timeless symbol of Athens' cultural legacy",vbench,temporal_flickering,53
+p01899,train,"A space shuttle launching into orbit, with flames and smoke billowing out from the engines",vbench,overall_consistency,767
+p01900,dev,"The camera gradually moves closer, revealing a vast barren plain, with cracked brown earth scattered with small stones swept by the harsh winds. In the distance, an approaching sto",vbench2,Complex_Landscape,1612
+p01901,dev,A wall changes from grey to yellow.,vbench2,Dynamic_Attribute,1318
+p01902,train,"A person is reading a book, then they suddenly start folding laundry.",vbench2,Human_Anatomy|Human_Clothes|Human_Identity|Motion_Order_Understanding,222
+p01903,train,"A red ball falls from a height, hits the ground, and bounces back up.",vbench2,Instance_Preservation,1845
+p01904,train,A person is skydiving,vbench,human_action,233
+p01905,train,A person is sharpening knives,vbench,human_action,232
+p01906,train,a cell phone,vbench,object_class,837
+p01907,dev,One person picks up something dropped by another.,vbench2,Human_Anatomy|Human_Interaction,1541
+p01908,train,A piece of fabric changes from pink to blue.,vbench2,Dynamic_Attribute,1315
+p01911,train,"A panda drinking coffee in a cafe in Paris, animated style",vbench,appearance_style,620
+p01912,dev,One person is handing a remote control to another person.,vbench2,Human_Interaction,1795
+p01913,dev,"The camera orbits around. Car, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01915,train,A man is playing basketball.,vbench2,Diversity|Human_Anatomy|Human_Clothes|Human_Identity|Instance_Preservation,1741
+p01917,train,The glass car light turned into a plastic car light.,vbench2,Dynamic_Attribute,1382
+p01919,train,"A cute happy Corgi playing in park, sunset, animated style",vbench,appearance_style,531
+p01920,train,The glass mirror transformed into a wooden mirror.,vbench2,Dynamic_Attribute,1383
+p01921,dev,parking lot,vbench,scene,867
+p01922,train,a bottle,vbench,object_class,721
+p01923,dev,A person is making snowman,vbench,human_action,696
+p01924,dev,"The camera orbits around. Cadillac, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01926,train,"A cute happy Corgi playing in park, sunset, racking focus",vbench,temporal_style,531
+p01928,train,"A rabbit is in front of a flowerpot, then the rabbit jumps to the right of the flowerpot.",vbench2,Dynamic_Spatial_Relationship,1650
+p01929,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, watercolor painting",vbench,appearance_style,579
+p01930,dev,"Blue Lagoon, pan right.",vbench2,Camera_Motion,1168
+p01931,train,A timelapse captures the gradual transformation of wax as the temperature rises to 60°C.,vbench2,Thermotics,1477
+p01932,train,A person is dunking basketball,vbench,human_action,233
+p01933,dev,"A fox is on the right of a shoe, then the fox runs to the behind of the shoe.",vbench2,Dynamic_Spatial_Relationship,1646
+p01934,train,"A boat sailing leisurely along the Seine River with the Eiffel Tower in background, pan left",vbench,temporal_style,552
+p01935,dev,"The camera orbits around. Retro computer, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01936,dev,A rock changes from red to grey.,vbench2,Dynamic_Attribute,1318
+p01937,dev,"Alhambra, pan left.",vbench2,Camera_Motion,1186
+p01938,dev,A person is peeling a potato.,vbench2,Motion_Rationality,1768
+p01939,dev,"Gwen Stacy reading a book, tilt down",vbench,temporal_style,641
+p01940,train,A tranquil tableau of a country estate's library featured elegant wooden shelves,vbench,temporal_flickering,72
+p01941,train,A tiger changes from small to big.,vbench2,Dynamic_Attribute,1434
+p01942,train,"A timelapse of a wet sponge being compressed between two hands, with the pressure increasing rapidly.",vbench2,Mechanics,1824
+p01943,train,a surfboard,vbench,object_class,855
+p01944,train,A person is running on treadmill,vbench,human_action,248
+p01947,train,"An octopus with the shell of a tortoise, the body of a deer, the wings of a butterfly, and the eyes of an eagle, blending speed, defense, and perception.",vbench2,Composition,1712
+p01948,train,"Gwen Stacy reading a book, pixel art",vbench,appearance_style,546
+p01949,train,"A timelapse of a cotton ball soaked in water being squeezed by hand, with the pressure increasing rapidly.",vbench2,Mechanics,1824
+p01950,train,corridor,vbench,scene,848
+p01951,train,One person adjusts the collar of another person’s shirt.,vbench2,Human_Anatomy|Human_Interaction,1562
+p01952,train,"A couple in formal evening wear going home get caught in a heavy downpour with umbrellas, pixel art",vbench,appearance_style,558
+p01953,dev,One person hands a tissue to another person.,vbench2,Human_Anatomy|Human_Interaction,1795
+p01954,train,Two red balloons are floating in the air.,vbench2,Instance_Preservation,1419
+p01955,train,an airplane soaring through a clear blue sky,vbench,subject_consistency,280
+p01956,train,"A lion, a skateboard, a pillow, and a mug are playing a game of tag. The lion is chasing the skateboard, but the pillow keeps bouncing in front of it, causing the lion to trip over",vbench2,Composition,1736
+p01957,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, black and white",vbench,appearance_style,579
+p01958,train,"A piece of boric acid is ignited, emitting a vivid and unique flame as it burns steadily.",vbench2,Material,1256
+p01959,train,"A panda drinking coffee in a cafe in Paris by Hokusai, in the style of Ukiyo",vbench,appearance_style,620
+p01960,train,One person ties the shoelaces of another person.,vbench2,Human_Anatomy|Human_Interaction,1537
+p01961,train,A white sheep is walking.,vbench2,Instance_Preservation,1435
+p01963,train,construction site,vbench,scene,848
+p01964,train,One person helps another person clean their shoes.,vbench2,Human_Interaction,1572
+p01965,train,"A mechanical knight with steam-powered joints standing guard at an ancient castle gate. Gears whir softly as its head turns to scan the surroundings, while steam occasionally escapes from its armor joints.",tahard,ta_hard,2028
+p01966,train,a red bowl,vbench,color,721
+p01967,train,"a cup on the left of a fork, front view",vbench,spatial_relationship,885
+p01968,train,mansion,vbench,scene,833
+p01969,train,A person is drawing,vbench,human_action,329
+p01971,dev,an elephant running to join a herd of its kind,vbench,subject_consistency,876
+p01972,train,"A horse is standing by the fence, then it suddenly starts walking to the barn.",vbench2,Motion_Order_Understanding,1691
+p01974,train,"A jar of peanut butter is opened in the space station, with the viscous liquid slowly dispersing.",vbench2,Mechanics,1811
+p01978,train,people are running.,vbench2,Human_Anatomy,1739
+p01979,train,"Vase, tilt up.",vbench2,Camera_Motion,1195
+p01980,dev,A bigfoot walking in the snowstorm.,vbench,overall_consistency,696
+p01981,train,"A timelapse of a toothpaste tube being squeezed by hand, with the pressure rapidly increasing.",vbench2,Mechanics,1824
+p01982,train,"After a global zombie virus outbreak, the surviving humans lived in a wasteland. Young survivor Li Hao and his team were tasked with crossing a zombie-infested city to find a biolo",vbench2,Complex_Plot,1130
+p01984,dev,"The camera orbits around. Ficus Bonsai, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p01986,train,"Pyramid, zoom in.",vbench2,Camera_Motion,1177
+p01987,train,"A dolphin and a whale singing together in the ocean. The dolphin is leaping out of the water, while the whale is producing deep, melodic sounds. The ocean is vast and blue, with the sun setting on the horizon.",tahard,ta_hard,1991
+p01988,train,A person is cutting a carrot into sticks.,vbench2,Motion_Rationality,1773
+p01989,train,A person is slicing a cucumber.,vbench2,Motion_Rationality,1773
+p01990,dev,"A cat is under the table, then the cat runs to the right of the table.",vbench2,Dynamic_Spatial_Relationship,1633
+p01991,train,"A talking teapot with a mustache and a dancing teacup with legs performing a tea ceremony in an enchanted forest. The teapot is pouring tea gracefully, while the teacup is twirling and dancing around. The forest is magical, with glowing plants and twinkling lights.",tahard,ta_hard,2015
+p01993,train,"A pirate with a wooden leg and a mermaid with a shimmering tail playing a duet on a grand piano in an underwater cave. The pirate is playing the melody, while the mermaid is accompanying with harmony. The cave is illuminated by bioluminescent sea creatures, creating a magical atmosphere.",tahard,ta_hard,1991
+p01994,dev,A person is walking with a backpack.,vbench2,Motion_Rationality,1780
+p01995,train,A person is reading book,vbench,human_action,401
+p01996,dev,"a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time",vbench,temporal_flickering,74
+p01997,train,raceway,vbench,scene,859
+p01999,dev,"The camera orbits around. Jukebox, the camera circles around.",vbench2,Multi-View_Consistency,1233
+p02000,train,A clear glass of glycerin is gently poured into a glass of water.,vbench2,Material,1268
+p02001,train,A person is doing laundry,vbench,human_action,222
+p02002,train,a bicycle,vbench,object_class,416
+p02005,train,"In a distant village, there were legends about a temple and ghosts. The villagers were afraid to go out at night, believing that evil forces were sealed within the temple. A young",vbench2,Complex_Plot,1110
+p02006,dev,A person is peeling a banana.,vbench2,Motion_Rationality,1768
+p02007,train,people are doing exercises.,vbench2,Human_Anatomy,1746
+p02008,train,a fork,vbench,object_class,834
+p02010,train,The wooden stair railing transformed into a plastic railing.,vbench2,Dynamic_Attribute,1379
+p02011,train,a backpack,vbench,object_class,355
+p02012,train,"Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks, tilt down",vbench,temporal_style,579
+p02013,train,"A wandering monk with tattoos that shift like flowing water across their skin, meditating beneath a sacred tree as autumn leaves swirl around them in perfect circles.",tahard,ta_hard,2028
+p02014,train,a boat slowing down to stop,vbench,subject_consistency,749
+p02015,train,"a wine glass on the right of a cup, front view",vbench,spatial_relationship,886
+p02016,train,a bicycle slowing down to stop,vbench,subject_consistency,749
+p02017,train,A person is eating a chocolate truffle.,vbench2,Motion_Rationality,1770
+p02018,train,"a shark is swimming in the ocean, pan right",vbench,temporal_style,764
+p02019,dev,"A blue pen is used to write on the rough, brown paper of a shopping bag, showcasing the interaction between the pen and the bag's surface.",vbench2,Mechanics,1852
+p02020,dev,"A fox is on the right of a shoe, then the fox runs to the left of the shoe.",vbench2,Dynamic_Spatial_Relationship,1646
+p02022,dev,"A tranquil tableau of the Stonehenge presented itself as an enigmatic puzzle, each colossal stone meticulously placed against the backdrop of tranquility",vbench,temporal_flickering,74
+p02023,train,"In a still frame, nestled in the Zen garden, a rustic teahouse featured tatami seating and a traditional charcoal brazier",vbench,temporal_flickering,66
+p02024,dev,"On an island surrounded by volcanoes, there was a legend about the Volcano God. The legend said that the volcano contained an immortal power, and every generation of island guardia",vbench2,Complex_Plot,1119
+p02025,train,a carrot,vbench,object_class,923
+p02026,train,"In an ancient city, a young painter always looks out of the glass window of his studio at the street. On the first day, he notices a figure who appears at a specific time at the st",vbench2,Complex_Plot,1133
+p02027,train,"A chair and a table having a tea party, both elegantly setting out cups and pastries.",vbench2,Composition,1749
+p02028,train,"a clock on the left of a vase, front view",vbench,spatial_relationship,889

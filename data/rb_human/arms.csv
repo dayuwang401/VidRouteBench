@@ -1,0 +1,13 @@
+arm,family,config,usd_per_clip,heldout
+kling1.5,kling1.5,default,0.64,0
+kling,kling,default,0.28,0
+gen3,gen3,default,0.5,0
+minimax,minimax,default,0.28,0
+tongyi,tongyi,default,0.42,0
+luma,luma,default,0.3,0
+luma1.6,luma1.6,default,0.3,0
+vidu,vidu,default,0.2,0
+qingying,qingying,default,0.07,0
+CogVideoX,CogVideoX,default,0.075,0
+opensora1.2,opensora1.2,default,0.1,0
+easyanimatev4,easyanimatev4,default,0.1,0

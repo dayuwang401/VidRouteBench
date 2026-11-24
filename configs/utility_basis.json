@@ -1,0 +1,60 @@
+{
+  "diagnostics": {
+    "condition_number": 6.545322479306781,
+    "eigenvalues": [
+      2.2127421792109643,
+      1.8827642756845522,
+      1.329095444426134,
+      1.0506090583320562,
+      0.8482907426025605,
+      0.5325125529232054,
+      0.45513231957891404,
+      0.35078877325297025,
+      0.33806465398864766
+    ],
+    "r95": 8
+  },
+  "dims": [
+    "dim_vr_vq",
+    "dim_vr_mq",
+    "dim_vr_ta",
+    "dim_align_mean",
+    "dim_align_std",
+    "dim_consistency",
+    "dim_sharp",
+    "dim_contrast",
+    "dim_colorfulness"
+  ],
+  "dropped": [
+    "dim_motion",
+    "dim_vr_overall",
+    "dim_align_min"
+  ],
+  "fit_on": "train split, seed 0",
+  "frozen": true,
+  "mu": {
+    "dim_align_mean": 0.1547271828891958,
+    "dim_align_std": 0.01081180746026413,
+    "dim_colorfulness": 23.611396470634432,
+    "dim_consistency": 0.9737001462706498,
+    "dim_contrast": 49.93418642257783,
+    "dim_sharp": 8.532098074295254,
+    "dim_vr_mq": -0.5420341488736062,
+    "dim_vr_ta": -0.2898424567782938,
+    "dim_vr_vq": -0.6041964348667769
+  },
+  "n_rows": 14560,
+  "reason": "motion=1-consistency（corr=-1.00）；vr_overall=vr_vq+vr_mq+vr_ta。两者都会让基底奇异，故删除",
+  "sd": {
+    "dim_align_mean": 0.04973702364338804,
+    "dim_align_std": 0.009792673541895867,
+    "dim_colorfulness": 18.344797736355698,
+    "dim_consistency": 0.023329860861427996,
+    "dim_contrast": 20.422276318923007,
+    "dim_sharp": 10.220537898743348,
+    "dim_vr_mq": 0.5870819154016086,
+    "dim_vr_ta": 1.2752143028530978,
+    "dim_vr_vq": 0.6564881045106904
+  },
+  "version": "utility-basis-v1-20261116"
+}
